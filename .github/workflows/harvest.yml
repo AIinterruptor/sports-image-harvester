@@ -18,6 +18,8 @@ jobs:
           python-version: "3.12"
 
       - name: Run harvester
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python harvest.py
 
       - name: Commit new images

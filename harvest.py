@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Sports Figure Image Harvester
-Version: 1.0.0
+Version: 1.1.0
 
 Downloads images of sports figures from Wikimedia Commons, keeping ONLY files
 released under licenses free for public use (Public Domain, CC0, CC BY, CC BY-SA).
@@ -20,6 +20,7 @@ import argparse
 import hashlib
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -195,6 +196,28 @@ def harvest_athlete(athlete: str, cfg: dict, manifest: dict, limit: int) -> int:
     return new_count
 
 
+def notify_discord(per_athlete: dict, total: int) -> None:
+    """Post a run summary to Discord if DISCORD_WEBHOOK is set and images landed."""
+    webhook = os.environ.get("DISCORD_WEBHOOK", "").strip()
+    if not webhook or total == 0:
+        return
+    lines = [f"• {name}: {n} new" for name, n in per_athlete.items() if n]
+    payload = {
+        "username": "Sports Image Harvester",
+        "content": f"📸 **{total} new image(s) harvested**\n" + "\n".join(lines),
+    }
+    req = urllib.request.Request(
+        webhook,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
+    )
+    try:
+        urllib.request.urlopen(req, timeout=30).read()
+        log("discord notification sent")
+    except Exception as e:
+        log(f"discord notify failed: {e}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Harvest freely-licensed sports figure images")
     parser.add_argument("--athlete", help="harvest a single athlete by name")
@@ -210,19 +233,22 @@ def main() -> int:
     limit = args.limit if args.limit is not None else cfg.get("max_new_per_athlete", 10)
 
     manifest = load_json(MANIFEST_PATH, {})
-    total = 0
+    per_athlete = {}
     for athlete in athletes:
         log(f"searching Commons for: {athlete}")
         try:
-            total += harvest_athlete(athlete, cfg, manifest, limit)
+            per_athlete[athlete] = harvest_athlete(athlete, cfg, manifest, limit)
         except Exception as e:
             log(f"  ERROR harvesting {athlete}: {e}")
+            per_athlete[athlete] = 0
         time.sleep(cfg.get("request_delay_seconds", 1.0))
 
     MANIFEST_PATH.write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
+    total = sum(per_athlete.values())
     log(f"done — {total} new image(s); manifest updated")
+    notify_discord(per_athlete, total)
     return 0
 
 
