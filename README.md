@@ -14,7 +14,7 @@ Yamal, Bellingham, …).
   Anything Non-Commercial (NC), No-Derivatives (ND), or unlicensed is rejected.
 - Images land in `images/<athlete_slug>/`; every file is recorded in
   `manifest.json` with license, artist, credit, source page, and hashes.
-- A GitHub Actions workflow re-runs the harvest **every Monday 03:00 UTC**
+- A GitHub Actions workflow re-runs the harvest **every 4 hours, 24/7**
   (or on demand via *Run workflow*) and commits anything new.
 
 ## Usage
