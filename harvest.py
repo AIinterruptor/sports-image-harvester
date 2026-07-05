@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Sports Figure Image Harvester
-Version: 1.1.0
+Version: 1.2.0
 
 Downloads images of sports figures from Wikimedia Commons, keeping ONLY files
 released under licenses free for public use (Public Domain, CC0, CC BY, CC BY-SA).
@@ -153,17 +153,17 @@ def download(url: str, dest: Path) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def harvest_athlete(athlete: str, cfg: dict, manifest: dict, limit: int) -> int:
+def harvest_athlete(athlete: str, cfg: dict, manifest: dict, limit: int) -> list[dict]:
     seen_sha1 = {rec["sha1"] for recs in manifest.values() for rec in recs if rec.get("sha1")}
     seen_titles = {rec["commons_title"] for recs in manifest.values() for rec in recs}
 
     candidates = search_commons(athlete, cfg.get("search_limit", 30))
     slug = re.sub(r"[^\w]+", "_", athlete.strip()).strip("_").lower()
     out_dir = IMAGES_DIR / slug
-    new_count = 0
+    new_records = []
 
     for page in candidates:
-        if new_count >= limit:
+        if len(new_records) >= limit:
             break
         rec = evaluate_candidate(page, cfg.get("min_width", 600))
         if rec is None:
@@ -189,33 +189,60 @@ def harvest_athlete(athlete: str, cfg: dict, manifest: dict, limit: int) -> int:
         manifest.setdefault(athlete, []).append(rec)
         seen_sha1.add(rec["sha1"])
         seen_titles.add(rec["commons_title"])
-        new_count += 1
+        new_records.append(rec)
         log(f"  + {filename} [{rec['license']}] by {rec['artist'] or 'unknown'}")
         time.sleep(cfg.get("request_delay_seconds", 1.0))
 
-    return new_count
+    return new_records
 
 
-def notify_discord(per_athlete: dict, total: int) -> None:
-    """Post a run summary to Discord if DISCORD_WEBHOOK is set and images landed."""
+def notify_discord(new_records: list[dict]) -> None:
+    """Post per-image detail (license, artist, size, storage links) to Discord."""
     webhook = os.environ.get("DISCORD_WEBHOOK", "").strip()
-    if not webhook or total == 0:
+    if not webhook or not new_records:
         return
-    lines = [f"• {name}: {n} new" for name, n in per_athlete.items() if n]
-    payload = {
-        "username": "Sports Image Harvester",
-        "content": f"📸 **{total} new image(s) harvested**\n" + "\n".join(lines),
-    }
-    req = urllib.request.Request(
-        webhook,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
-    )
-    try:
-        urllib.request.urlopen(req, timeout=30).read()
-        log("discord notification sent")
-    except Exception as e:
-        log(f"discord notify failed: {e}")
+
+    repo = os.environ.get("GITHUB_REPOSITORY", "AIinterruptor/sports-image-harvester")
+    branch = os.environ.get("GITHUB_REF_NAME", "main")
+
+    lines = []
+    for rec in new_records:
+        path_quoted = urllib.parse.quote(rec["path"])
+        view_url = f"https://github.com/{repo}/blob/{branch}/{path_quoted}"
+        raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/{path_quoted}"
+        lines.append(
+            f"**{rec['athlete']}** — {rec['path'].rsplit('/', 1)[-1]}\n"
+            f"  {rec['width']}x{rec['height']} | {rec['license']}"
+            f" | by {rec['artist'] or 'unknown'}\n"
+            f"  repo: `{rec['path']}` · [view]({view_url}) · [direct]({raw_url})"
+            f" · [source]({rec['commons_page']})"
+        )
+
+    header = f"📸 **{len(new_records)} new image(s) harvested**\n"
+    # Discord caps content at 2000 chars — send in chunks.
+    chunk = header
+    chunks = []
+    for line in lines:
+        if len(chunk) + len(line) + 1 > 1900:
+            chunks.append(chunk)
+            chunk = ""
+        chunk += line + "\n"
+    chunks.append(chunk)
+
+    for body in chunks:
+        payload = {"username": "Sports Image Harvester", "content": body}
+        req = urllib.request.Request(
+            webhook,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
+        )
+        try:
+            urllib.request.urlopen(req, timeout=30).read()
+        except Exception as e:
+            log(f"discord notify failed: {e}")
+            return
+        time.sleep(0.5)
+    log(f"discord notification sent ({len(chunks)} message(s))")
 
 
 def main() -> int:
@@ -233,22 +260,20 @@ def main() -> int:
     limit = args.limit if args.limit is not None else cfg.get("max_new_per_athlete", 10)
 
     manifest = load_json(MANIFEST_PATH, {})
-    per_athlete = {}
+    new_records = []
     for athlete in athletes:
         log(f"searching Commons for: {athlete}")
         try:
-            per_athlete[athlete] = harvest_athlete(athlete, cfg, manifest, limit)
+            new_records.extend(harvest_athlete(athlete, cfg, manifest, limit))
         except Exception as e:
             log(f"  ERROR harvesting {athlete}: {e}")
-            per_athlete[athlete] = 0
         time.sleep(cfg.get("request_delay_seconds", 1.0))
 
     MANIFEST_PATH.write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
-    total = sum(per_athlete.values())
-    log(f"done — {total} new image(s); manifest updated")
-    notify_discord(per_athlete, total)
+    log(f"done — {len(new_records)} new image(s); manifest updated")
+    notify_discord(new_records)
     return 0
 
 
