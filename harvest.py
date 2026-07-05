@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Sports Figure Image Harvester
-Version: 1.2.0
+Version: 1.2.1
 
 Downloads images of sports figures from Wikimedia Commons, keeping ONLY files
 released under licenses free for public use (Public Domain, CC0, CC BY, CC BY-SA).
@@ -219,6 +219,19 @@ def notify_discord(new_records: list[dict]) -> None:
         )
 
     header = f"📸 **{len(new_records)} new image(s) harvested**\n"
+
+    # Large hauls (e.g. first run of a new athlete list) would need dozens of
+    # messages and trip Discord's webhook rate limit — send a per-athlete
+    # summary instead and point at the manifest for detail.
+    if len(new_records) > 20:
+        counts = {}
+        for rec in new_records:
+            counts[rec["athlete"]] = counts.get(rec["athlete"], 0) + 1
+        lines = [f"• {name}: {n} new — `images/`" for name, n in sorted(counts.items())]
+        lines.append(
+            f"\nFull detail per image: https://github.com/{repo}/blob/{branch}/manifest.json"
+        )
+
     # Discord caps content at 2000 chars — send in chunks.
     chunk = header
     chunks = []
@@ -229,20 +242,31 @@ def notify_discord(new_records: list[dict]) -> None:
         chunk += line + "\n"
     chunks.append(chunk)
 
+    sent = 0
     for body in chunks:
         payload = {"username": "Sports Image Harvester", "content": body}
-        req = urllib.request.Request(
-            webhook,
-            data=json.dumps(payload).encode("utf-8"),
-            headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
-        )
-        try:
-            urllib.request.urlopen(req, timeout=30).read()
-        except Exception as e:
-            log(f"discord notify failed: {e}")
-            return
-        time.sleep(0.5)
-    log(f"discord notification sent ({len(chunks)} message(s))")
+        data = json.dumps(payload).encode("utf-8")
+        for attempt in range(3):
+            req = urllib.request.Request(
+                webhook, data=data,
+                headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
+            )
+            try:
+                urllib.request.urlopen(req, timeout=30).read()
+                sent += 1
+                break
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    wait = float(e.headers.get("Retry-After", "2") or 2)
+                    time.sleep(min(wait, 30) + 0.5)
+                    continue
+                log(f"discord notify failed: {e}")
+                return
+            except Exception as e:
+                log(f"discord notify failed: {e}")
+                return
+        time.sleep(1.0)
+    log(f"discord notification sent ({sent} message(s))")
 
 
 def main() -> int:
