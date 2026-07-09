@@ -6919,6 +6919,42 @@
       "path": "images/lionel_messi/Suisse_vs_Argentine_-_Granit_Xhaka_Lionel_Messi.jpg",
       "sha256": "2be9a13be4567e3428d093abe153fa149d3adb073024803bbb468b7b9c4548ac",
       "retrieved_utc": "2026-07-06T12:14:35+00:00"
+    },
+    {
+      "commons_title": "File:Tata Martino Noche’dor (1).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATata_Martino_Noche%E2%80%99dor_%281%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tata_Martino_Noche%E2%80%99dor_%281%29.jpg",
+      "sha1": "10efdced9c4cd65878a2ff3542ad21e7bbc2ba4a",
+      "width": 4032,
+      "height": 3024,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Cuban Boy",
+      "credit": "Own work",
+      "attribution_required": false,
+      "athlete": "Lionel Messi",
+      "path": "images/lionel_messi/Tata_Martino_Noche_dor_1_.jpg",
+      "sha256": "b97f9ecd5c947693668816e09f7b34c1e6ca40ef82086874437d1a3497e5f043",
+      "retrieved_utc": "2026-07-09T07:50:03+00:00"
+    },
+    {
+      "commons_title": "File:Tata Martino Noche’dor (2).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATata_Martino_Noche%E2%80%99dor_%282%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tata_Martino_Noche%E2%80%99dor_%282%29.jpg",
+      "sha1": "866fbfda07a34981b88005ad0b91051c1f7d94ee",
+      "width": 4032,
+      "height": 3024,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Cuban Boy",
+      "credit": "Own work",
+      "attribution_required": false,
+      "athlete": "Lionel Messi",
+      "path": "images/lionel_messi/Tata_Martino_Noche_dor_2_.jpg",
+      "sha256": "9d411322edeb1b28a6e99adc95d4e6f71b5c7261fea2ecad9365c8fef8e7f76f",
+      "retrieved_utc": "2026-07-09T07:50:04+00:00"
     }
   ],
   "Cristiano Ronaldo": [
