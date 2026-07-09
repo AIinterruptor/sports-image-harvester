@@ -2311,6 +2311,24 @@
       "path": "images/jannik_sinner/Sinner_MCM22_9_52036393751_.jpg",
       "sha256": "140a752c8834affbaca4ed92b3dbb80c8c72085ce9171cc5ee1a78f5d31e298a",
       "retrieved_utc": "2026-07-09T11:19:07+00:00"
+    },
+    {
+      "commons_title": "File:Jannik Sinner vs Arthur Rinderknech, 2025 Roland Garros, 2025-05-26 (34).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AJannik_Sinner_vs_Arthur_Rinderknech%2C_2025_Roland_Garros%2C_2025-05-26_%2834%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jannik_Sinner_vs_Arthur_Rinderknech%2C_2025_Roland_Garros%2C_2025-05-26_%2834%29.jpg",
+      "sha1": "c0e9bf09c81c6c7b3618a7fe094f45cc10c55e1c",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Jannik Sinner",
+      "path": "images/jannik_sinner/Jannik_Sinner_vs_Arthur_Rinderknech_2025_Roland_Garros_2025-05-26_34_.jpg",
+      "sha256": "41e1ce947a2fa313bb331eeb4106690c0a821a862ec9547964985015082b3e4d",
+      "retrieved_utc": "2026-07-09T15:27:56+00:00"
     }
   ],
   "Novak Djokovic": [
@@ -5923,6 +5941,42 @@
       "path": "images/taylor_fritz/2016_Citi_Open_Alexander_Zverev_Taylor_Fritz_27829217444_.jpg",
       "sha256": "8863a0f58ec8ccd230229161b4eb3d36a4c9bd32ecd7294eabe5ca6b3a83a1eb",
       "retrieved_utc": "2026-07-07T11:18:15+00:00"
+    },
+    {
+      "commons_title": "File:Taylor Fritz, photo impressions, Swiss Indoors Basel 2025.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATaylor_Fritz%2C_photo_impressions%2C_Swiss_Indoors_Basel_2025.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Taylor_Fritz%2C_photo_impressions%2C_Swiss_Indoors_Basel_2025.jpg",
+      "sha1": "f2f8b4e56115392cc763eabd5d1b33bb85290910",
+      "width": 4752,
+      "height": 2672,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Skyscraper2010",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Taylor Fritz",
+      "path": "images/taylor_fritz/Taylor_Fritz_photo_impressions_Swiss_Indoors_Basel_2025.jpg",
+      "sha256": "577a8e5f906ab008a342ed6441ae4a8b24728f6c8f4509d7d1f79529bfa1ebca",
+      "retrieved_utc": "2026-07-09T15:28:08+00:00"
+    },
+    {
+      "commons_title": "File:Taylor Fritz (46953833291).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATaylor_Fritz_%2846953833291%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taylor_Fritz_%2846953833291%29.jpg",
+      "sha1": "7a111e658c2047f1066b28a18c89458dfc14db86",
+      "width": 2759,
+      "height": 3740,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Carine06 from UK",
+      "credit": "Taylor Fritz",
+      "attribution_required": true,
+      "athlete": "Taylor Fritz",
+      "path": "images/taylor_fritz/Taylor_Fritz_46953833291_.jpg",
+      "sha256": "c8ef5b3d384538fde23074613254688106d72e81c1d5d6886c2a4f409c317d94",
+      "retrieved_utc": "2026-07-09T15:28:10+00:00"
     }
   ],
   "Jack Draper": [
