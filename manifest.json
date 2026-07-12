@@ -3321,6 +3321,24 @@
       "path": "images/novak_djokovic/Novak_Djokovic_Practicing_Tennis_06.jpg",
       "sha256": "81ee03f112ce800099aed36657f29a0f1d3940635642bbe8a80655922e6a4813",
       "retrieved_utc": "2026-07-09T11:19:10+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic (19528970049).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_%2819528970049%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Novak_Djokovic_%2819528970049%29.jpg",
+      "sha1": "a6f6ad0a35b5b32e84cd892af0a0e16d5cc01bdf",
+      "width": 2442,
+      "height": 2483,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Tatiana from Moscow, Russia",
+      "credit": "Novak Djokovic",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_19528970049_.jpg",
+      "sha256": "fdbd0d1b625cf2e4bbdd5a59737e96a10909409df4a72b3f9b4da24a27d7b691",
+      "retrieved_utc": "2026-07-12T06:43:18+00:00"
     }
   ],
   "Aryna Sabalenka": [
