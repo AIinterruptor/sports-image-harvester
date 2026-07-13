@@ -8503,6 +8503,24 @@
       "path": "images/lionel_messi/Крутой_ключ._Скалы_на_вершине.jpg",
       "sha256": "60d1ae3452509b4e774e628c20930d0d38fe5695fd3a1b31484ed68d3305564f",
       "retrieved_utc": "2026-07-12T13:45:41+00:00"
+    },
+    {
+      "commons_title": "File:Tiro Libre Messi (19153749690) (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATiro_Libre_Messi_%2819153749690%29_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tiro_Libre_Messi_%2819153749690%29_%28cropped%29.jpg",
+      "sha1": "16a6a834d6bda1e0c895fed17dbb3895a4d9e62a",
+      "width": 3183,
+      "height": 2387,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Francisco Javier Gutierrez Zuñiga from San Pedro de la Paz, Chile",
+      "credit": "Tiro Libre Messi",
+      "attribution_required": true,
+      "athlete": "Lionel Messi",
+      "path": "images/lionel_messi/Tiro_Libre_Messi_19153749690_cropped_.jpg",
+      "sha256": "a95c4d5dc72867b9155f464e35bd9bbd40528c72982b8dfd5df8a8a47c12f88f",
+      "retrieved_utc": "2026-07-13T03:41:38+00:00"
     }
   ],
   "Cristiano Ronaldo": [
