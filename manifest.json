@@ -1029,6 +1029,42 @@
       "path": "images/iga_swiatek/Iga_Świątek_2023_US_Open_58.jpg",
       "sha256": "173cc230800530ed71a10c6f9e5813a2bb0464d12d9e439a720f3164011f5c16",
       "retrieved_utc": "2026-07-14T06:20:36+00:00"
+    },
+    {
+      "commons_title": "File:Iga Świątek (2023 US Open) 45.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AIga_%C5%9Awi%C4%85tek_%282023_US_Open%29_45.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_45.jpg",
+      "sha1": "b16664e4fcb9b924724cc2fead3d4acc6b1f57f6",
+      "width": 6000,
+      "height": 4000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hameltion",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Iga Swiatek",
+      "path": "images/iga_swiatek/Iga_Świątek_2023_US_Open_45.jpg",
+      "sha256": "b69a596227cf974752429a8f48c93a2822db60508a41234f7b0a7df475e4dbe1",
+      "retrieved_utc": "2026-07-15T14:00:14+00:00"
+    },
+    {
+      "commons_title": "File:Tennis at the 2018 Summer Youth Olympics - Girls Doubles Victory Ceremony 46.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_46.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_46.jpg",
+      "sha1": "fc8f906a00c9e787d657587f4d7dba526eb10814",
+      "width": 5184,
+      "height": 3456,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Gastón Cuello",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Iga Swiatek",
+      "path": "images/iga_swiatek/Tennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_46.jpg",
+      "sha256": "f94b08a78abd59b6a460cd60868186cefe28a44c113872d11db5dad1c4754ae0",
+      "retrieved_utc": "2026-07-15T14:00:15+00:00"
     }
   ],
   "Carlos Alcaraz": [
@@ -3573,6 +3609,24 @@
       "path": "images/novak_djokovic/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_342_.jpg",
       "sha256": "81326d66fa4f15a06b66c4771bad76184e14567f35087b3a7d7a9055b4e0799c",
       "retrieved_utc": "2026-07-14T21:08:39+00:00"
+    },
+    {
+      "commons_title": "File:Djoko line call (27042970295).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ADjoko_line_call_%2827042970295%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Djoko_line_call_%2827042970295%29.jpg",
+      "sha1": "e7a25fa46be94171aa91ded15022b5b7a5afb661",
+      "width": 5760,
+      "height": 3840,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "JC",
+      "credit": "Djoko line call",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Djoko_line_call_27042970295_.jpg",
+      "sha256": "7a8528dc4d934b50f7b3e9602bc8ad9dd521af1badd805defa9f64805b054371",
+      "retrieved_utc": "2026-07-15T14:00:21+00:00"
     }
   ],
   "Aryna Sabalenka": [
