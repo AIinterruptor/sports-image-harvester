@@ -577,6 +577,42 @@
       "path": "images/lamine_yamal/Lamine_Yamal_Lucas_Digne_France_v_Spain_7.24.26-157.jpg",
       "sha256": "e090168758398adac5d0adb493728d5263f3e8122f0c16020d1e282c77006970",
       "retrieved_utc": "2026-07-17T03:27:00+00:00"
+    },
+    {
+      "commons_title": "File:Lucas Digne Lamine Yamal France v Spain 7.24.26-094.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALucas_Digne_Lamine_Yamal_France_v_Spain_7.24.26-094.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lucas_Digne_Lamine_Yamal_France_v_Spain_7.24.26-094.jpg",
+      "sha1": "a01fcf74a8dacb6cea0c8ca405b79fc9830d3707",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lamine Yamal",
+      "path": "images/lamine_yamal/Lucas_Digne_Lamine_Yamal_France_v_Spain_7.24.26-094.jpg",
+      "sha256": "f0adc47cf590ca049d66ddcf4ffb035ef6075ed4a11b35b61c6c8e122f3bd283",
+      "retrieved_utc": "2026-07-17T06:24:14+00:00"
+    },
+    {
+      "commons_title": "File:Mike Maignan Lamine Yamal France v Spain 7.24.26-188.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AMike_Maignan_Lamine_Yamal_France_v_Spain_7.24.26-188.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mike_Maignan_Lamine_Yamal_France_v_Spain_7.24.26-188.jpg",
+      "sha1": "3dad1cf512581a49aa4971d770cd504b35592966",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lamine Yamal",
+      "path": "images/lamine_yamal/Mike_Maignan_Lamine_Yamal_France_v_Spain_7.24.26-188.jpg",
+      "sha256": "e838c227b94b37c64bd380768c77a7a2ba130171ef04e718c6cb628f0afabd4a",
+      "retrieved_utc": "2026-07-17T06:24:16+00:00"
     }
   ],
   "Iga Swiatek": [
