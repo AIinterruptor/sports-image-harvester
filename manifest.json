@@ -5593,6 +5593,24 @@
       "path": "images/coco_gauff/US_Open_2022_Photo_201_52391458950_.jpg",
       "sha256": "9efb16ca90d68f05aa1d8a9e8fe34b67c4803931fcdcd059d041d2bd9ea33366",
       "retrieved_utc": "2026-07-20T14:25:15+00:00"
+    },
+    {
+      "commons_title": "File:US Open 2022 Photo 198 (52391459005).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AUS_Open_2022_Photo_198_%2852391459005%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/US_Open_2022_Photo_198_%2852391459005%29.jpg",
+      "sha1": "7b9efdab347af58871115e15ba99f7957325041f",
+      "width": 3027,
+      "height": 4540,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "All-Pro Reels from District of Columbia, USA",
+      "credit": "Photo_198",
+      "attribution_required": true,
+      "athlete": "Coco Gauff",
+      "path": "images/coco_gauff/US_Open_2022_Photo_198_52391459005_.jpg",
+      "sha256": "7ffde48e10171d4e5e430e12424989022f5e7470b947aa217cea9d6cdac5cd45",
+      "retrieved_utc": "2026-07-20T21:18:57+00:00"
     }
   ],
   "Elena Rybakina": [
