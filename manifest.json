@@ -649,6 +649,24 @@
       "path": "images/lamine_yamal/Lamine_Yamal_France_v_Spain_7.24.26-142_cropped_.jpg",
       "sha256": "85fa53840079abfdb5516c04ca85492a3fe3134af0005a5b8f158d4262c6ff90",
       "retrieved_utc": "2026-07-18T13:38:54+00:00"
+    },
+    {
+      "commons_title": "File:P20260719DT-0823 President Donald J. Trump and First Lady Melania Trump attend the FIFA World Cup Final.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AP20260719DT-0823_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/P20260719DT-0823_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final.jpg",
+      "sha1": "bc6211ffd1c6fe946047e0656bc1ad077ff9012c",
+      "width": 3000,
+      "height": 2000,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "The White House",
+      "credit": "https://www.flickr.com/photos/202101414@N05/55407278576/",
+      "attribution_required": false,
+      "athlete": "Lamine Yamal",
+      "path": "images/lamine_yamal/P20260719DT-0823_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final.jpg",
+      "sha256": "71fc95717776e20bb6f2a5f745c2da0483c0b7fd5eb60c659b6c39086bc99d3c",
+      "retrieved_utc": "2026-07-21T06:37:33+00:00"
     }
   ],
   "Iga Swiatek": [
@@ -4925,6 +4943,24 @@
       "path": "images/aryna_sabalenka/Aryna_Sabalenka_vs._Qinwen_Zheng_in_a_quarterfinals_of_the_2024_US_Open_-_05.jpg",
       "sha256": "29f4ee6e2c39ab5f9b0b9cf347d80747a2dc20b154352aa2438c466faedb275e",
       "retrieved_utc": "2026-07-20T11:09:39+00:00"
+    },
+    {
+      "commons_title": "File:Aryna Sabalenka vs. Qinwen Zheng in a quarterfinals of the 2024 US Open - 13.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AAryna_Sabalenka_vs._Qinwen_Zheng_in_a_quarterfinals_of_the_2024_US_Open_-_13.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aryna_Sabalenka_vs._Qinwen_Zheng_in_a_quarterfinals_of_the_2024_US_Open_-_13.jpg",
+      "sha1": "3b74900ec55af41a79463f139b226beb36123859",
+      "width": 4032,
+      "height": 3024,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Oleg Yunakov",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Aryna Sabalenka",
+      "path": "images/aryna_sabalenka/Aryna_Sabalenka_vs._Qinwen_Zheng_in_a_quarterfinals_of_the_2024_US_Open_-_13.jpg",
+      "sha256": "9c7a403cb793301ec771ff86baa52f7b6ab7a39edbf08cc4590a9354739f343f",
+      "retrieved_utc": "2026-07-21T06:37:15+00:00"
     }
   ],
   "Coco Gauff": [
