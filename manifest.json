@@ -6947,6 +6947,24 @@
       "path": "images/mirra_andreeva/Mirra_Andreeva_2023_US_Open_11.jpg",
       "sha256": "d9fd26fd1fdfd82db2c897227a428db4263dd16b51e43e8e5734443800c0af10",
       "retrieved_utc": "2026-07-20T11:09:48+00:00"
+    },
+    {
+      "commons_title": "File:Mirra Andreeva (2023 US Open) 19 (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AMirra_Andreeva_%282023_US_Open%29_19_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mirra_Andreeva_%282023_US_Open%29_19_%28cropped%29.jpg",
+      "sha1": "52d820f619feb2fcf16877dc9ccc5217bc463f55",
+      "width": 1650,
+      "height": 2200,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hameltion",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Mirra Andreeva",
+      "path": "images/mirra_andreeva/Mirra_Andreeva_2023_US_Open_19_cropped_.jpg",
+      "sha256": "f94acf377f648c56d118f646340823f2af590c539c95b4d58a2f9375c45dddda",
+      "retrieved_utc": "2026-07-21T03:28:30+00:00"
     }
   ],
   "Taylor Fritz": [
@@ -9313,6 +9331,24 @@
       "path": "images/lionel_messi/Tiro_Libre_Messi_19153749690_cropped_.jpg",
       "sha256": "a95c4d5dc72867b9155f464e35bd9bbd40528c72982b8dfd5df8a8a47c12f88f",
       "retrieved_utc": "2026-07-13T03:41:38+00:00"
+    },
+    {
+      "commons_title": "File:FC Barcelona - Bayer 04 Leverkusen, 7 mar 2012 (07).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AFC_Barcelona_-_Bayer_04_Leverkusen%2C_7_mar_2012_%2807%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/FC_Barcelona_-_Bayer_04_Leverkusen%2C_7_mar_2012_%2807%29.jpg",
+      "sha1": "202c42536fcde69bd309be65e210a2ffc52eef4c",
+      "width": 1350,
+      "height": 1013,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Shai Pal",
+      "credit": "Friend's photos from a trip to Barcelona",
+      "attribution_required": true,
+      "athlete": "Lionel Messi",
+      "path": "images/lionel_messi/FC_Barcelona_-_Bayer_04_Leverkusen_7_mar_2012_07_.jpg",
+      "sha256": "24a31198e507c405779986ce0711d4bf39aaf4df0f23434258d32c4269753cca",
+      "retrieved_utc": "2026-07-21T03:28:38+00:00"
     }
   ],
   "Cristiano Ronaldo": [
