@@ -7145,6 +7145,24 @@
       "path": "images/mirra_andreeva/Mirra_Andreeva_2023_US_Open_19_cropped_.jpg",
       "sha256": "f94acf377f648c56d118f646340823f2af590c539c95b4d58a2f9375c45dddda",
       "retrieved_utc": "2026-07-21T03:28:30+00:00"
+    },
+    {
+      "commons_title": "File:Mirra Andreeva (2023 US Open) 15.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AMirra_Andreeva_%282023_US_Open%29_15.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mirra_Andreeva_%282023_US_Open%29_15.jpg",
+      "sha1": "b90023b5bc70d712e3cb18b6aaf7e60dadeba2f0",
+      "width": 4000,
+      "height": 6000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hameltion",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Mirra Andreeva",
+      "path": "images/mirra_andreeva/Mirra_Andreeva_2023_US_Open_15.jpg",
+      "sha256": "9f66746f6d60bd7be266b1a0d6204ab03458e34ed6f863f9ef9826ab9e08e94b",
+      "retrieved_utc": "2026-07-21T21:19:53+00:00"
     }
   ],
   "Taylor Fritz": [
