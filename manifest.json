@@ -5123,6 +5123,24 @@
       "path": "images/aryna_sabalenka/Aryna_Sabalenka_2023_US_Open_35.jpg",
       "sha256": "f7772d152dc481438353f20bd01bbdcd310479378349c774742b7a97e0752b16",
       "retrieved_utc": "2026-07-22T03:27:07+00:00"
+    },
+    {
+      "commons_title": "File:Wimbledon 2023 Semifinals (53045125895).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AWimbledon_2023_Semifinals_%2853045125895%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Wimbledon_2023_Semifinals_%2853045125895%29.jpg",
+      "sha1": "e2f35a085bc976ef56c46d01d63c50229edaa0e6",
+      "width": 1141,
+      "height": 1712,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Adrian Scottow from London, England",
+      "credit": "IMG_3402.jpg",
+      "attribution_required": true,
+      "athlete": "Aryna Sabalenka",
+      "path": "images/aryna_sabalenka/Wimbledon_2023_Semifinals_53045125895_.jpg",
+      "sha256": "4d95e2b571ba151f560074a973b471cbd77b1c13827739dbe4cf07d08e23a7e4",
+      "retrieved_utc": "2026-07-22T14:13:45+00:00"
     }
   ],
   "Coco Gauff": [
