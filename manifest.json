@@ -10647,6 +10647,24 @@
       "path": "images/cristiano_ronaldo/P20251118DT-3757.jpg",
       "sha256": "13082231c8ca0683fdd6bb87a069cf58ea22db2c659a2338e3e9b56ed32d8d49",
       "retrieved_utc": "2026-07-18T09:41:35+00:00"
+    },
+    {
+      "commons_title": "File:Cristiano Ronaldo (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACristiano_Ronaldo_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cristiano_Ronaldo_%28cropped%29.jpg",
+      "sha1": "a726cd15765c1217541850da4e9e5785a6d37547",
+      "width": 1984,
+      "height": 2180,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Austin Osuide",
+      "credit": "Cropped from Image:Cristiano Ronaldo.jpg",
+      "attribution_required": true,
+      "athlete": "Cristiano Ronaldo",
+      "path": "images/cristiano_ronaldo/Cristiano_Ronaldo_cropped_.jpg",
+      "sha256": "b51557b87e02f7e8b9d06ffb304d82dc3fc96996ebcac9d94b89fb13ced3a574",
+      "retrieved_utc": "2026-07-24T10:27:46+00:00"
     }
   ],
   "Kylian Mbappe": [
