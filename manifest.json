@@ -847,6 +847,42 @@
       "path": "images/lamine_yamal/Nicolas_Tagliafico_Lamine_Yamal_Argentina_v_Spain_19_July_2026-216.jpg",
       "sha256": "b778b6ef11fe6ee771eb1547378ec90c2fda334fadbe63ce9735478a172bb2dd",
       "retrieved_utc": "2026-07-25T17:10:52+00:00"
+    },
+    {
+      "commons_title": "File:Lamine Yamal Argentina v Spain 19 July 2026-167.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALamine_Yamal_Argentina_v_Spain_19_July_2026-167.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lamine_Yamal_Argentina_v_Spain_19_July_2026-167.jpg",
+      "sha1": "cd5ca2c48bda6e8ed4bec3f61d5795b84d250db6",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lamine Yamal",
+      "path": "images/lamine_yamal/Lamine_Yamal_Argentina_v_Spain_19_July_2026-167.jpg",
+      "sha256": "987b8ca907bfa91fb5fdfc7fcce253c746037d8613715e8936329913f7e45ab1",
+      "retrieved_utc": "2026-07-25T21:02:47+00:00"
+    },
+    {
+      "commons_title": "File:Nicolas Tagliafico Lamine Yamal Argentina v Spain 19 July 2026-095.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANicolas_Tagliafico_Lamine_Yamal_Argentina_v_Spain_19_July_2026-095.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nicolas_Tagliafico_Lamine_Yamal_Argentina_v_Spain_19_July_2026-095.jpg",
+      "sha1": "41db466ef16ecbbd4afb594d2a13d0cecdbcd244",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lamine Yamal",
+      "path": "images/lamine_yamal/Nicolas_Tagliafico_Lamine_Yamal_Argentina_v_Spain_19_July_2026-095.jpg",
+      "sha256": "26283966a85ac5ddca56b7f73442d301c5b0b283c2aa65a60d1f5f282a91e398",
+      "retrieved_utc": "2026-07-25T21:02:48+00:00"
     }
   ],
   "Iga Swiatek": [
@@ -16963,6 +16999,24 @@
       "path": "images/rodri/Rodri_Claudia_Sheinbaum_Argentina_v_Spain_19_July_2026-292.jpg",
       "sha256": "d93f2b72084082ffd581088a1a8494542c10a598b112f6e06be342aa1bbc8f6f",
       "retrieved_utc": "2026-07-25T17:11:31+00:00"
+    },
+    {
+      "commons_title": "File:Rodri Enzo Fernandez Argentina v Spain 19 July 2026-185.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ARodri_Enzo_Fernandez_Argentina_v_Spain_19_July_2026-185.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Rodri_Enzo_Fernandez_Argentina_v_Spain_19_July_2026-185.jpg",
+      "sha1": "ade3111f5007eefb27633c08042b5d00b160a575",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Rodri",
+      "path": "images/rodri/Rodri_Enzo_Fernandez_Argentina_v_Spain_19_July_2026-185.jpg",
+      "sha256": "fb59fb88d4af318e1c6d4d20922dacfcb8679b725ab8eb391becdd6bbd4731f8",
+      "retrieved_utc": "2026-07-25T21:03:00+00:00"
     }
   ],
   "Federico Valverde": [
