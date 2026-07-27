@@ -4599,6 +4599,24 @@
       "path": "images/novak_djokovic/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_649_.jpg",
       "sha256": "74c0698b15a9ca6dd552ed5d86add386e253c2a19eb89921344492fe889672e4",
       "retrieved_utc": "2026-07-26T13:45:49+00:00"
+    },
+    {
+      "commons_title": "File:2024 Summer Olympics men's singles tennis tournament's podium, 2024-08-04 (179).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3A2024_Summer_Olympics_men%27s_singles_tennis_tournament%27s_podium%2C_2024-08-04_%28179%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/2024_Summer_Olympics_men%27s_singles_tennis_tournament%27s_podium%2C_2024-08-04_%28179%29.jpg",
+      "sha1": "eca53b91393aa2f0f104e21231c559c37708d2cb",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/2024_Summer_Olympics_men_s_singles_tennis_tournament_s_podium_2024-08-04_179_.jpg",
+      "sha256": "2c9f41223af949791dcbf78e8dee0785766da3844cfcf883987419ad29f6bf46",
+      "retrieved_utc": "2026-07-27T03:50:02+00:00"
     }
   ],
   "Aryna Sabalenka": [
@@ -6439,6 +6457,42 @@
       "path": "images/coco_gauff/Gauff_Halep_SW19.png",
       "sha256": "7e91b9618777b8ffc7c5973c24762de8f683c37dafa402e1d9acff7e6d46d785",
       "retrieved_utc": "2026-07-22T21:17:57+00:00"
+    },
+    {
+      "commons_title": "File:Coco Gauff Practicing Tennis 4.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACoco_Gauff_Practicing_Tennis_4.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coco_Gauff_Practicing_Tennis_4.jpg",
+      "sha1": "be6311457e48c4e0ecbe2e64fcbf2448783d2e0a",
+      "width": 4000,
+      "height": 6000,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Amaury Laporte",
+      "credit": "https://www.flickr.com/photos/8283439@N04/53156446743/",
+      "attribution_required": true,
+      "athlete": "Coco Gauff",
+      "path": "images/coco_gauff/Coco_Gauff_Practicing_Tennis_4.jpg",
+      "sha256": "19e0d61f00f6e568b2db6de08b1200979358bd8add9234d3ab84617687637a82",
+      "retrieved_utc": "2026-07-27T03:50:09+00:00"
+    },
+    {
+      "commons_title": "File:Lttc4284 26.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALttc4284_26.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lttc4284_26.jpg",
+      "sha1": "f57e8187415a6180802659249d2864b6cd91062f",
+      "width": 2955,
+      "height": 2269,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Lear 21",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Coco Gauff",
+      "path": "images/coco_gauff/Lttc4284_26.jpg",
+      "sha256": "5b9dd022e828ebbeb8ae8e1936525ba942d154d46a29795cbee758ddba538d84",
+      "retrieved_utc": "2026-07-27T03:50:10+00:00"
     }
   ],
   "Elena Rybakina": [
@@ -11133,6 +11187,24 @@
       "path": "images/cristiano_ronaldo/Матч_Реал_-_Ливерпуль_3-1._26_мая_2018_года_873610.jpg",
       "sha256": "b132271091d5765b3289da2baae7827475a42cceb3908b6abf9e60df19879a4b",
       "retrieved_utc": "2026-07-25T13:52:51+00:00"
+    },
+    {
+      "commons_title": "File:Preparando el tiro (4471001557).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3APreparando_el_tiro_%284471001557%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Preparando_el_tiro_%284471001557%29.jpg",
+      "sha1": "b5af0471b4572dd9932dc47bb4dc706317c0d6fd",
+      "width": 939,
+      "height": 669,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Jan S0L0",
+      "credit": "Preparando el tiro",
+      "attribution_required": true,
+      "athlete": "Cristiano Ronaldo",
+      "path": "images/cristiano_ronaldo/Preparando_el_tiro_4471001557_.jpg",
+      "sha256": "f86b83fb687fdedf061fd9955d1833f0dad8f98c9512bc3b34b118cac556432f",
+      "retrieved_utc": "2026-07-27T03:50:24+00:00"
     }
   ],
   "Kylian Mbappe": [
