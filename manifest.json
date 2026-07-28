@@ -2597,6 +2597,42 @@
       "path": "images/carlos_alcaraz/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_384_.jpg",
       "sha256": "bd5fe26c73a45727ba8dcfe69c56e54a9b7555ad36c91a05aa4ade8247476ad6",
       "retrieved_utc": "2026-07-27T14:53:54+00:00"
+    },
+    {
+      "commons_title": "File:Carlos Alcaraz Wimbledon.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarlos_Alcaraz_Wimbledon.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Carlos_Alcaraz_Wimbledon.jpg",
+      "sha1": "580a18b2beb2c398f2bbcc7b9f7258efd6a98ea9",
+      "width": 6000,
+      "height": 4000,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Neil Tilbrook",
+      "credit": "https://www.flickr.com/photos/juddy666/52179739394/",
+      "attribution_required": true,
+      "athlete": "Carlos Alcaraz",
+      "path": "images/carlos_alcaraz/Carlos_Alcaraz_Wimbledon.jpg",
+      "sha256": "b4c9c6a92fe0738bbfa106594c4e533054f4a64ef61daedfa12ea2e7f29e55f3",
+      "retrieved_utc": "2026-07-28T06:35:50+00:00"
+    },
+    {
+      "commons_title": "File:Carlos Alcaraz Wimbledon (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarlos_Alcaraz_Wimbledon_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Carlos_Alcaraz_Wimbledon_%28cropped%29.jpg",
+      "sha1": "f29a1814ce465d22d5fb54a8304370b95ac16628",
+      "width": 1314,
+      "height": 1699,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Neil Tilbrook",
+      "credit": "https://www.flickr.com/photos/juddy666/52179739394/",
+      "attribution_required": true,
+      "athlete": "Carlos Alcaraz",
+      "path": "images/carlos_alcaraz/Carlos_Alcaraz_Wimbledon_cropped_.jpg",
+      "sha256": "9dcd37e1b27bd4d68cadb8d1db775c36553aeb08fb831f43f1631a5deb657344",
+      "retrieved_utc": "2026-07-28T06:35:51+00:00"
     }
   ],
   "Jannik Sinner": [
