@@ -10645,6 +10645,24 @@
       "path": "images/lionel_messi/FC_Barcelona_-_Bayer_04_Leverkusen_7_mar_2012_07_.jpg",
       "sha256": "24a31198e507c405779986ce0711d4bf39aaf4df0f23434258d32c4269753cca",
       "retrieved_utc": "2026-07-21T03:28:38+00:00"
+    },
+    {
+      "commons_title": "File:Lionel Messi goal 19abr2007.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALionel_Messi_goal_19abr2007.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lionel_Messi_goal_19abr2007.jpg",
+      "sha1": "6f735dbeb9ee9a4e676555cb65b9374f27bb357d",
+      "width": 720,
+      "height": 540,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.5 es",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
+      "artist": "Darz Mol",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lionel Messi",
+      "path": "images/lionel_messi/Lionel_Messi_goal_19abr2007.jpg",
+      "sha256": "6a6b66bf8c97d186a07a31c8602a1a401077e07963721237f7f099f07c6b69b2",
+      "retrieved_utc": "2026-07-30T17:45:09+00:00"
     }
   ],
   "Cristiano Ronaldo": [
