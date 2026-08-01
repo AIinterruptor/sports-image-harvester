@@ -1623,6 +1623,24 @@
       "path": "images/iga_swiatek/Iga_Swiatek_Wimbledon_junior_champion_2018_50498813092_.jpg",
       "sha256": "35e5b75e595e9968180a66b42cb5bf8c73aa54877e581b07ee09e3bb2637c458",
       "retrieved_utc": "2026-07-30T06:36:27+00:00"
+    },
+    {
+      "commons_title": "File:Tennis at the 2018 Summer Youth Olympics - Girls Doubles Victory Ceremony 24.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_24.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_24.jpg",
+      "sha1": "ea3794536ec35df409b7ffddb1603fc964738147",
+      "width": 5184,
+      "height": 3456,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Gastón Cuello",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Iga Swiatek",
+      "path": "images/iga_swiatek/Tennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_24.jpg",
+      "sha256": "7c10e4a275a3d836934aae643b55ee092288d800589cceab368b9a7f65ab137e",
+      "retrieved_utc": "2026-08-01T06:38:36+00:00"
     }
   ],
   "Carlos Alcaraz": [
@@ -8243,6 +8261,24 @@
       "path": "images/mirra_andreeva/Sara_Errani_-_Jasmine_Paolini_vs._Mirra_Andreeva_-_Diana_Shnaider_2024_Summer_Olympics_women_s_doubles_tennis_tournament_2024-08-04_12_.jpg",
       "sha256": "871a9a46512c37dd911631a8b78b0cd83726826746a449171472d33117e21238",
       "retrieved_utc": "2026-07-25T03:27:25+00:00"
+    },
+    {
+      "commons_title": "File:Mirra Andreeva (2023 US Open) 06.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AMirra_Andreeva_%282023_US_Open%29_06.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mirra_Andreeva_%282023_US_Open%29_06.jpg",
+      "sha1": "be7dc52a13b4b6f2977c6520d5d59558c2503fa0",
+      "width": 4000,
+      "height": 6000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hameltion",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Mirra Andreeva",
+      "path": "images/mirra_andreeva/Mirra_Andreeva_2023_US_Open_06.jpg",
+      "sha256": "3f0ed21aa043beab3a67304053952117babaf3e65f6dd04044add8444172addf",
+      "retrieved_utc": "2026-08-01T06:38:48+00:00"
     }
   ],
   "Taylor Fritz": [
