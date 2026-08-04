@@ -2759,6 +2759,24 @@
       "path": "images/carlos_alcaraz/Wimbledon_Day_1_-_2022_DSC05815_52179480336_.jpg",
       "sha256": "932495dd92b238db2865cde222e4ce2cbf4b1766e4bec1886756fadd5f427f7f",
       "retrieved_utc": "2026-08-03T14:58:15+00:00"
+    },
+    {
+      "commons_title": "File:Carlos Alcaraz serving while playing Jan-Lennard Struff (Wimbledon 2025).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarlos_Alcaraz_serving_while_playing_Jan-Lennard_Struff_%28Wimbledon_2025%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carlos_Alcaraz_serving_while_playing_Jan-Lennard_Struff_%28Wimbledon_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "9b0113916fd1189240821e4b3b133f3f1a9c927d",
+      "width": 5472,
+      "height": 3080,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "12121343A",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Carlos Alcaraz",
+      "path": "images/carlos_alcaraz/Carlos_Alcaraz_serving_while_playing_Jan-Lennard_Struff_Wimbledon_2025_.jpg",
+      "sha256": "86b123e9b4ab85905f98b1f36ceeefa4e83beb818fe5a2b3f3793801279d5d02",
+      "retrieved_utc": "2026-08-04T03:24:06+00:00"
     }
   ],
   "Jannik Sinner": [
