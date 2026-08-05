@@ -3985,6 +3985,24 @@
       "path": "images/jannik_sinner/Jannik_Sinner_vs_Arthur_Rinderknech_2025_Roland_Garros_2025-05-26_80_.jpg",
       "sha256": "c5ad689e79ddc63bf32d57778db71a2fe0033603e9b69eb450397335816345fd",
       "retrieved_utc": "2026-07-11T21:00:51+00:00"
+    },
+    {
+      "commons_title": "File:Linda Nosková and Jannik Sinner.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALinda_Noskov%C3%A1_and_Jannik_Sinner.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Linda_Noskov%C3%A1_and_Jannik_Sinner.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "ea707e62d79e389f7ac9c488f5348755c6251fe5",
+      "width": 1220,
+      "height": 773,
+      "mime": "image/png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Daniel Cooper and Hameltion",
+      "credit": "https://commons.wikimedia.org/wiki/File:Linda_Noskov%C3%A1_(2023_US_Open)_01_(cropped2).jpg\n\nhttps://commons.wikimedia.org/wiki/File:Jannik_Sinner_Wimbledon_2026_trophy_(cropped-2).jpg",
+      "attribution_required": true,
+      "athlete": "Jannik Sinner",
+      "path": "images/jannik_sinner/Linda_Nosková_and_Jannik_Sinner.png",
+      "sha256": "5b251a28f169499e6010c18c177f6db278cab3338d192f2f671f201849867cf4",
+      "retrieved_utc": "2026-08-05T06:37:25+00:00"
     }
   ],
   "Novak Djokovic": [
