@@ -12303,6 +12303,42 @@
       "path": "images/cristiano_ronaldo/Nuno_Mendes_Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-097.jpg",
       "sha256": "26f36921fc9bb2ef00d0719d1d71e60c59261f3df60a606d556fff6b9bc1bcd3",
       "retrieved_utc": "2026-08-07T17:00:34+00:00"
+    },
+    {
+      "commons_title": "File:1 Łukasz Piszczek.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3A1_%C5%81ukasz_Piszczek.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/1_%C5%81ukasz_Piszczek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "ef1eb7efd357d6c34ede75de593da7fba58998a3",
+      "width": 3040,
+      "height": 4044,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Chensiyuan",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Cristiano Ronaldo",
+      "path": "images/cristiano_ronaldo/1_Łukasz_Piszczek.jpg",
+      "sha256": "50bc6e1fcbd66592716f79eab2235438cbb15023c51553b1fc4289701f803497",
+      "retrieved_utc": "2026-08-10T05:39:57+00:00"
+    },
+    {
+      "commons_title": "File:Ronaldo Adrino.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ARonaldo_Adrino.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ronaldo_Adrino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "18845e8ed7c6b97decf7a69789da5e1813e010e9",
+      "width": 1500,
+      "height": 1004,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Jan S0L0",
+      "credit": "https://www.flickr.com/photos/jansolo09/5628683612/",
+      "attribution_required": true,
+      "athlete": "Cristiano Ronaldo",
+      "path": "images/cristiano_ronaldo/Ronaldo_Adrino.jpg",
+      "sha256": "3cb51edd09804be333fb837379b64d01b77a25e451c8878aca192e0e261aa7a1",
+      "retrieved_utc": "2026-08-10T05:39:58+00:00"
     }
   ],
   "Kylian Mbappe": [
