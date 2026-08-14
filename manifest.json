@@ -10967,6 +10967,24 @@
       "path": "images/emma_raducanu/Transylvania_Open-Day_2-Emma_Răducanu_Gabriela_Ruse_-_practice_51626549823_.jpg",
       "sha256": "13d1b4ceda578eb8ffc4564adb642e698140f06e364be8b9bb50a6a9c00805ed",
       "retrieved_utc": "2026-08-08T02:06:04+00:00"
+    },
+    {
+      "commons_title": "File:Emma Raducanu Forehand.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AEmma_Raducanu_Forehand.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Emma_Raducanu_Forehand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "dbf54d4d872d25e29a779da4dc3a7a6c34f5aa74",
+      "width": 2432,
+      "height": 2300,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Chris Czermak",
+      "credit": "https://www.flickr.com/photos/190743646@N03/51748121911/",
+      "attribution_required": true,
+      "athlete": "Emma Raducanu",
+      "path": "images/emma_raducanu/Emma_Raducanu_Forehand.jpg",
+      "sha256": "b91568fc4bdda48838e1de149c4ff9f4b6a2ca241f37ed592810434a23e10887",
+      "retrieved_utc": "2026-08-14T09:14:33+00:00"
     }
   ],
   "Lionel Messi": [
