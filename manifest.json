@@ -10985,6 +10985,42 @@
       "path": "images/emma_raducanu/Emma_Raducanu_Forehand.jpg",
       "sha256": "b91568fc4bdda48838e1de149c4ff9f4b6a2ca241f37ed592810434a23e10887",
       "retrieved_utc": "2026-08-14T09:14:33+00:00"
+    },
+    {
+      "commons_title": "File:Raducanu2025AO (cropped) (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ARaducanu2025AO_%28cropped%29_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Raducanu2025AO_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "7c5f55820f205270e365576fbcf846ea9357fbd6",
+      "width": 805,
+      "height": 770,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "350z33",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Emma Raducanu",
+      "path": "images/emma_raducanu/Raducanu2025AO_cropped_cropped_.jpg",
+      "sha256": "5abfd0bde8d1c13fc5e4f06be2dcc000d9535ea87e4e787be088def70f2db30d",
+      "retrieved_utc": "2026-08-15T04:39:38+00:00"
+    },
+    {
+      "commons_title": "File:Transylvania Open-Day 2-Emma Răducanu & Gabriela Ruse - practice (51626550223).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATransylvania_Open-Day_2-Emma_R%C4%83ducanu_%26_Gabriela_Ruse_-_practice_%2851626550223%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Transylvania_Open-Day_2-Emma_R%C4%83ducanu_%26_Gabriela_Ruse_-_practice_%2851626550223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "0d8947701f77b4bccc3eaf168e3363b1f7d6dcbc",
+      "width": 2048,
+      "height": 1365,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Nuță Lucian from Cluj-Napoca, Romania",
+      "credit": "Transylvania Open-Day 2-Emma Răducanu & Gabriela Ruse - practice",
+      "attribution_required": true,
+      "athlete": "Emma Raducanu",
+      "path": "images/emma_raducanu/Transylvania_Open-Day_2-Emma_Răducanu_Gabriela_Ruse_-_practice_51626550223_.jpg",
+      "sha256": "a362f1af98bd3eb862153d5db45b62cbe01d243204a0f7907c7c5b62089a549d",
+      "retrieved_utc": "2026-08-15T04:39:40+00:00"
     }
   ],
   "Lionel Messi": [
