@@ -5499,6 +5499,24 @@
       "path": "images/novak_djokovic/Cincinnati-Tennis-2015-ATP-WTA-150_20853463875_.jpg",
       "sha256": "7810bebb28e3fe9b19ecb359dfa96458293c1b5aa9ca26e3f88a18e5b84594da",
       "retrieved_utc": "2026-08-14T02:31:09+00:00"
+    },
+    {
+      "commons_title": "File:Novak Đoković 2012 (4).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_%C4%90okovi%C4%87_2012_%284%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Novak_%C4%90okovi%C4%87_2012_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "f81809bd027897a0968bb4032ff843bb4e281a47",
+      "width": 5184,
+      "height": 3456,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Création CARAVEO",
+      "credit": "Flickr: Djoko",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Đoković_2012_4_.jpg",
+      "sha256": "f408a997fff1ac7953ed3c56a24bc93374a0b83a207197ee25b8ef1c1a478b4d",
+      "retrieved_utc": "2026-08-16T01:47:57+00:00"
     }
   ],
   "Aryna Sabalenka": [
