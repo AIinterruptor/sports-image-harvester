@@ -14015,6 +14015,42 @@
       "path": "images/kylian_mbappe/Kylian_Mbappe_-10_Gustaf_Lagerbielke_-2_France_v_Sweden_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
       "sha256": "40a80aed41c24fec949bc037d62c94fee5c7c8e13fc1e8cd8b8443934f214bee",
       "retrieved_utc": "2026-08-02T13:45:38+00:00"
+    },
+    {
+      "commons_title": "File:Kylian Mbappe -10 France v Sweden at 2026 Fifa World Cup by YantsImages 04.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKylian_Mbappe_-10_France_v_Sweden_at_2026_Fifa_World_Cup_by_YantsImages_04.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kylian_Mbappe_-10_France_v_Sweden_at_2026_Fifa_World_Cup_by_YantsImages_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "ca32d87d753cb50a5aa7a776bf08bd4290a9084f",
+      "width": 3137,
+      "height": 4706,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "YantsImages",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/Kylian_Mbappe_-10_France_v_Sweden_at_2026_Fifa_World_Cup_by_YantsImages_04.jpg",
+      "sha256": "4691bd0f0982f6b46df7247ab4bc836fee78fd207125321b0fb1b2198e392b09",
+      "retrieved_utc": "2026-08-19T04:45:02+00:00"
+    },
+    {
+      "commons_title": "File:Kylian Mbappé (2).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKylian_Mbapp%C3%A9_%282%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kylian_Mbapp%C3%A9_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "9852142fca2b327a746a31916945c25d0ef597cc",
+      "width": 948,
+      "height": 936,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Кирилл Венедиктов",
+      "credit": "https://www.soccer.ru/galery/1042235/photo/718835",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/Kylian_Mbappé_2_.jpg",
+      "sha256": "c298701c1af4f0312e4b5f09d5b4d623e35b7608c170f7a439491ad03034e05f",
+      "retrieved_utc": "2026-08-19T04:45:03+00:00"
     }
   ],
   "Jude Bellingham": [
@@ -16631,6 +16667,24 @@
       "path": "images/erling_haaland/Paris_Saint-Germain_-_Manchester_City_FC_22_January_2025_65_.jpg",
       "sha256": "3a683a0ea237409ee275faa639b23474a4de40062b92d85a2d723549a9095328",
       "retrieved_utc": "2026-08-17T12:58:08+00:00"
+    },
+    {
+      "commons_title": "File:Paris Saint-Germain - Manchester City FC, 22 January 2025 (619).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AParis_Saint-Germain_-_Manchester_City_FC%2C_22_January_2025_%28619%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Paris_Saint-Germain_-_Manchester_City_FC%2C_22_January_2025_%28619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "bdba8bb501b6a9203d3380090af6567d67ce36d0",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Erling Haaland",
+      "path": "images/erling_haaland/Paris_Saint-Germain_-_Manchester_City_FC_22_January_2025_619_.jpg",
+      "sha256": "1857d9111ec285e5a67a4e4ffde5515645245776a43cef280668bdd013f36c01",
+      "retrieved_utc": "2026-08-19T04:45:10+00:00"
     }
   ],
   "Harry Kane": [
