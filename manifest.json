@@ -5661,6 +5661,24 @@
       "path": "images/novak_djokovic/Novak_Djokovic_at_2018_Queen_s_Club_Championships.jpg",
       "sha256": "5bb99d721a6a0494615e4da2c274b43c1a766f7f6a5c9f4371fe1427e14a4a53",
       "retrieved_utc": "2026-08-18T20:33:12+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic Eastbourne 2017 (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_Eastbourne_2017_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Novak_Djokovic_Eastbourne_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "5e5912cc3aaec60361d16f24051f3912d3b4c4ca",
+      "width": 2836,
+      "height": 3562,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "James Boyes from UK",
+      "credit": "Eastbourne tennis 2017-163.jpg",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_Eastbourne_2017_cropped_.jpg",
+      "sha256": "4bd242af0bb18c8278d620a6cac23193477d4141929e82c26efb4f3041488f23",
+      "retrieved_utc": "2026-08-21T20:33:54+00:00"
     }
   ],
   "Aryna Sabalenka": [
