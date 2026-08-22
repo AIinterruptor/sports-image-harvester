@@ -1713,6 +1713,24 @@
       "path": "images/iga_swiatek/Iga_Świątek_2023_US_Open_55.jpg",
       "sha256": "70071be5dfb73c4e0d0831ae03ae07cfec81d124de7f6b0bcefe83455ddefec0",
       "retrieved_utc": "2026-08-10T20:53:11+00:00"
+    },
+    {
+      "commons_title": "File:Iga Świątek (2023 US Open) 49.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AIga_%C5%9Awi%C4%85tek_%282023_US_Open%29_49.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "8710ccb4b4845ce765c151771fdfc3a916865393",
+      "width": 4000,
+      "height": 6000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hameltion",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Iga Swiatek",
+      "path": "images/iga_swiatek/Iga_Świątek_2023_US_Open_49.jpg",
+      "sha256": "b50518b90378190f3b481d1bace9969fc4df14138deec39e2a381886a57d28e5",
+      "retrieved_utc": "2026-08-22T16:33:23+00:00"
     }
   ],
   "Carlos Alcaraz": [
