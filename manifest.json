@@ -5769,6 +5769,42 @@
       "path": "images/novak_djokovic/Novak_Đoković_at_the_2009_US_Open_02.jpg",
       "sha256": "71748565e03943750da5564057c5c8ffff97f47a4e8a23e828940140cdd0b31c",
       "retrieved_utc": "2026-08-23T01:51:11+00:00"
+    },
+    {
+      "commons_title": "File:Djoko and parents (26974551601).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ADjoko_and_parents_%2826974551601%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Djoko_and_parents_%2826974551601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "5682a5013e37d531740e1523845a34abf8ddabc6",
+      "width": 4003,
+      "height": 2727,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "JC",
+      "credit": "Djoko and parents",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Djoko_and_parents_26974551601_.jpg",
+      "sha256": "e1a9d01e2e27cbb9b0f9a4f18d0f7cbec2fdf726381bc0cf87e07a6a9df10f95",
+      "retrieved_utc": "2026-08-23T04:46:00+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic vs. Carlos Alcaraz, 2024 Summer Olympics men's singles tennis tournament, 2024-08-04 (650).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_vs._Carlos_Alcaraz%2C_2024_Summer_Olympics_men%27s_singles_tennis_tournament%2C_2024-08-04_%28650%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Novak_Djokovic_vs._Carlos_Alcaraz%2C_2024_Summer_Olympics_men%27s_singles_tennis_tournament%2C_2024-08-04_%28650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "1af597a995208df6018c95762ea9802f510c5971",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_650_.jpg",
+      "sha256": "96618d975ab0369ec8d8e992b726105c82a9d7cb700c69f5697566f2175c58ce",
+      "retrieved_utc": "2026-08-23T04:46:01+00:00"
     }
   ],
   "Aryna Sabalenka": [
@@ -11905,6 +11941,24 @@
       "path": "images/lionel_messi/Lionel_Messi_goal_19abr2007.jpg",
       "sha256": "6a6b66bf8c97d186a07a31c8602a1a401077e07963721237f7f099f07c6b69b2",
       "retrieved_utc": "2026-07-30T17:45:09+00:00"
+    },
+    {
+      "commons_title": "File:Lionel Messi Argentina v Spain 19 July 2026-305 (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALionel_Messi_Argentina_v_Spain_19_July_2026-305_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lionel_Messi_Argentina_v_Spain_19_July_2026-305_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "218c2cc484036532ef71c4f1b714b93263be0d7a",
+      "width": 1468,
+      "height": 1971,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lionel Messi",
+      "path": "images/lionel_messi/Lionel_Messi_Argentina_v_Spain_19_July_2026-305_cropped_.jpg",
+      "sha256": "19074ce7e253d1d58758ee4f8b93afd7b569c69cd919bb0fa160ff85aabff8d3",
+      "retrieved_utc": "2026-08-23T04:46:14+00:00"
     }
   ],
   "Cristiano Ronaldo": [
