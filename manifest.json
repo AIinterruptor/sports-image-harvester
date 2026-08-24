@@ -1731,6 +1731,24 @@
       "path": "images/iga_swiatek/Iga_Świątek_2023_US_Open_49.jpg",
       "sha256": "b50518b90378190f3b481d1bace9969fc4df14138deec39e2a381886a57d28e5",
       "retrieved_utc": "2026-08-22T16:33:23+00:00"
+    },
+    {
+      "commons_title": "File:Iga Świątek & Karolína Muchová (48026453087).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AIga_%C5%9Awi%C4%85tek_%26_Karol%C3%ADna_Muchov%C3%A1_%2848026453087%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Iga_%C5%9Awi%C4%85tek_%26_Karol%C3%ADna_Muchov%C3%A1_%2848026453087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "67dcbc9c7c0979a13f128bc0636409a855fc7204",
+      "width": 1280,
+      "height": 1024,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Peter Menzel",
+      "credit": "Iga Świątek & Karolína Muchová",
+      "attribution_required": true,
+      "athlete": "Iga Swiatek",
+      "path": "images/iga_swiatek/Iga_Świątek_Karolína_Muchová_48026453087_.jpg",
+      "sha256": "8db01369e3366db3b31e1acc1eb132f2fc43da489326832b7b691ddf4e161797",
+      "retrieved_utc": "2026-08-24T20:39:37+00:00"
     }
   ],
   "Carlos Alcaraz": [
