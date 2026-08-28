@@ -1803,6 +1803,24 @@
       "path": "images/iga_swiatek/Iga_Swiatek_50497960358_cropped_.jpg",
       "sha256": "e8aec53106986e05cf147d330a62d70f534d11ba7660e1b85b9cb37b2b0e3700",
       "retrieved_utc": "2026-08-26T23:18:35+00:00"
+    },
+    {
+      "commons_title": "File:Tennis at the 2018 Summer Youth Olympics - Girls Doubles Victory Ceremony 12.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_12.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "4575e394c2230a0453d20d0b5f0987740302f2d3",
+      "width": 5184,
+      "height": 3456,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Gastón Cuello",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Iga Swiatek",
+      "path": "images/iga_swiatek/Tennis_at_the_2018_Summer_Youth_Olympics_-_Girls_Doubles_Victory_Ceremony_12.jpg",
+      "sha256": "8c368546beab83798fda85d4dfded1892852cbec35ddaa12a5d69a0f69a9d60e",
+      "retrieved_utc": "2026-08-28T22:11:37+00:00"
     }
   ],
   "Carlos Alcaraz": [
