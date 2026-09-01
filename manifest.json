@@ -8167,6 +8167,24 @@
       "path": "images/coco_gauff/Lttc4284_26.jpg",
       "sha256": "5b9dd022e828ebbeb8ae8e1936525ba942d154d46a29795cbee758ddba538d84",
       "retrieved_utc": "2026-07-27T03:50:10+00:00"
+    },
+    {
+      "commons_title": "File:Gauff - US Open 2026.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AGauff_-_US_Open_2026.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gauff_-_US_Open_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "29e2af8401fe03b6398181c34727b2533d6319f8",
+      "width": 4725,
+      "height": 7084,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nrbelex",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Coco Gauff",
+      "path": "images/coco_gauff/Gauff_-_US_Open_2026.jpg",
+      "sha256": "f930740fe5ad593d5ea3b0ec3bae076a802f55fe9757770bc01de153893ee2f8",
+      "retrieved_utc": "2026-09-01T13:26:36+00:00"
     }
   ],
   "Elena Rybakina": [
@@ -17459,6 +17477,24 @@
       "path": "images/erling_haaland/Paris_Saint-Germain_-_Manchester_City_FC_22_January_2025_661_.jpg",
       "sha256": "c613df75558e086178185b3faa5c69fdb22a9449353b436b530e492ee3e41283",
       "retrieved_utc": "2026-08-20T16:43:37+00:00"
+    },
+    {
+      "commons_title": "File:Molde-Zenit (12).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AMolde-Zenit_%2812%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Molde-Zenit_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "65dfd28a8f6b843b7bbbe5a13f67a5db0cbc4792",
+      "width": 1600,
+      "height": 1031,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Вячеслав Евдокимов",
+      "credit": "fc-zenit.ru",
+      "attribution_required": true,
+      "athlete": "Erling Haaland",
+      "path": "images/erling_haaland/Molde-Zenit_12_.jpg",
+      "sha256": "d839278fb45ea54bb3c018290d8abeff255fdc488a26eb813076cbbc0a0b2923",
+      "retrieved_utc": "2026-09-01T13:26:57+00:00"
     }
   ],
   "Harry Kane": [
