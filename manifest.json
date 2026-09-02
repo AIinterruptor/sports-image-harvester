@@ -6201,6 +6201,24 @@
       "path": "images/novak_djokovic/Novak_Djokovic_Eastbourne_tennis_2017-278_34783293434_.jpg",
       "sha256": "cd1a81593f8f6c2e24dda15bbf9225dbdfce215bc22ea807d4e1d9e3830ef1ea",
       "retrieved_utc": "2026-08-31T05:08:52+00:00"
+    },
+    {
+      "commons_title": "File:US Open 2009 4th round 516.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AUS_Open_2009_4th_round_516.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/US_Open_2009_4th_round_516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "93e6efe77699da32f3181a3784ba68db7e992efe",
+      "width": 2048,
+      "height": 1360,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Edwin  Martinez",
+      "credit": "originally posted to Flickr as US Open 2009 4th round 516",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/US_Open_2009_4th_round_516.jpg",
+      "sha256": "b62ea5cc650540725c8a013fbb2c30180bb28580e415dac1ec5787727fb63084",
+      "retrieved_utc": "2026-09-02T22:32:27+00:00"
     }
   ],
   "Aryna Sabalenka": [
