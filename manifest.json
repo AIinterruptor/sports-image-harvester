@@ -11975,6 +11975,24 @@
       "path": "images/emma_raducanu/Transylvania_Open-Day_2-Emma_Răducanu_Gabriela_Ruse_-_practice_51626331076_.jpg",
       "sha256": "b611047cd97e9b65076a67ec1ca9017b591663825a0d51651fd38673a9c5cf76",
       "retrieved_utc": "2026-08-18T16:43:28+00:00"
+    },
+    {
+      "commons_title": "File:Emma Raducanu (2025 DC Open) 04.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AEmma_Raducanu_%282025_DC_Open%29_04.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Emma_Raducanu_%282025_DC_Open%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "952dbc434f8fdfc620ebe2b86208b8bf4f71af6b",
+      "width": 6000,
+      "height": 4000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hameltion",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Emma Raducanu",
+      "path": "images/emma_raducanu/Emma_Raducanu_2025_DC_Open_04.jpg",
+      "sha256": "417e92444db751ba97ea9c8590a8e9ced70eac276d3e5e0909b22686af68ea75",
+      "retrieved_utc": "2026-09-07T19:50:10+00:00"
     }
   ],
   "Lionel Messi": [
@@ -17639,6 +17657,24 @@
       "path": "images/erling_haaland/Molde-Zenit_12_.jpg",
       "sha256": "d839278fb45ea54bb3c018290d8abeff255fdc488a26eb813076cbbc0a0b2923",
       "retrieved_utc": "2026-09-01T13:26:57+00:00"
+    },
+    {
+      "commons_title": "File:Paris Saint-Germain - Manchester City FC, 22 January 2025 (1082).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AParis_Saint-Germain_-_Manchester_City_FC%2C_22_January_2025_%281082%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Paris_Saint-Germain_-_Manchester_City_FC%2C_22_January_2025_%281082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "1721afc39bf975ed5aea66a156b6a306478a032c",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Erling Haaland",
+      "path": "images/erling_haaland/Paris_Saint-Germain_-_Manchester_City_FC_22_January_2025_1082_.jpg",
+      "sha256": "4c6b0fe56b65db9d13581d4c5f36f3810256738afda5982306c8a9e2883bf72d",
+      "retrieved_utc": "2026-09-07T19:50:21+00:00"
     }
   ],
   "Harry Kane": [
