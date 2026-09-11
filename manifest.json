@@ -6345,6 +6345,42 @@
       "path": "images/novak_djokovic/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_327_.jpg",
       "sha256": "7faade5578d3ae8e1bc93b2f7fdc58b4afc8fb2edcdbb413cbe96b2dfe97bc7a",
       "retrieved_utc": "2026-09-10T04:17:16+00:00"
+    },
+    {
+      "commons_title": "File:Big Three (tennis).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ABig_Three_%28tennis%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Big_Three_%28tennis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "6b353aea25ed5a72a47fc71aa3c14bdd2a1311db",
+      "width": 4660,
+      "height": 1726,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "si.robi\nChristian Mesiano\nderivative work: Meganenohito",
+      "credit": "File:Nadal US16 (43) (29749332592).jpg\nFile:Novak Djokovic (16650975118).jpg\nFile:Roger Federer (7898190146).jpg",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Big_Three_tennis_.jpg",
+      "sha256": "9852a7dcd647ad5b82db4972cb04918d90c71220fa4ffe8c719d09de7af60849",
+      "retrieved_utc": "2026-09-11T12:47:48+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic (35577612916).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_%2835577612916%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Novak_Djokovic_%2835577612916%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "5bdf1fcaab10b3c2cb37c35fa3621df2b4207349",
+      "width": 3648,
+      "height": 5472,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Andrew Campbell",
+      "credit": "Novak Djokovic",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_35577612916_.jpg",
+      "sha256": "a1c3a7727bbcdb5f584598983a9fdb26f00ed895ba00eb4f77ac1d3dff2e9ca1",
+      "retrieved_utc": "2026-09-11T12:47:49+00:00"
     }
   ],
   "Aryna Sabalenka": [
