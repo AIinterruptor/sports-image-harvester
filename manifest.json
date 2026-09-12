@@ -6381,6 +6381,24 @@
       "path": "images/novak_djokovic/Novak_Djokovic_35577612916_.jpg",
       "sha256": "a1c3a7727bbcdb5f584598983a9fdb26f00ed895ba00eb4f77ac1d3dff2e9ca1",
       "retrieved_utc": "2026-09-11T12:47:49+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic vs. Carlos Alcaraz, 2024 Summer Olympics men's singles tennis tournament, 2024-08-04 (274).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_vs._Carlos_Alcaraz%2C_2024_Summer_Olympics_men%27s_singles_tennis_tournament%2C_2024-08-04_%28274%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Novak_Djokovic_vs._Carlos_Alcaraz%2C_2024_Summer_Olympics_men%27s_singles_tennis_tournament%2C_2024-08-04_%28274%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "e7b9246b01ebf4633926a17188c2bdb62ac57ba9",
+      "width": 3000,
+      "height": 4000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_274_.jpg",
+      "sha256": "7b703c8b6d8a02920a3b20153ae25821374fa55df18c8faa101c0b91cfc904a3",
+      "retrieved_utc": "2026-09-12T12:07:39+00:00"
     }
   ],
   "Aryna Sabalenka": [
@@ -10783,6 +10801,42 @@
       "path": "images/taylor_fritz/Taylor_Fritz_at_2025_Miami_Open_01.jpg",
       "sha256": "d2d3769c448eb308fc5039ba978408710774cd9df6e304cd84830ade1918fa91",
       "retrieved_utc": "2026-07-30T06:36:51+00:00"
+    },
+    {
+      "commons_title": "File:Fritz interview.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AFritz_interview.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Fritz_interview.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "d019138713a5ab04ed8e96d7e6b64689863bdc1c",
+      "width": 1328,
+      "height": 862,
+      "mime": "image/png",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "LHC88",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Taylor Fritz",
+      "path": "images/taylor_fritz/Fritz_interview.png",
+      "sha256": "c60465e2aed86cd3d00dda71491e25662d72b799ed267caaf24275d4813998ca",
+      "retrieved_utc": "2026-09-12T12:07:50+00:00"
+    },
+    {
+      "commons_title": "File:Fritz ready to serve.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AFritz_ready_to_serve.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Fritz_ready_to_serve.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "37480ec458cda2a57b85e631622d8f17bb75b76e",
+      "width": 1922,
+      "height": 1450,
+      "mime": "image/png",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "LHC88",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Taylor Fritz",
+      "path": "images/taylor_fritz/Fritz_ready_to_serve.png",
+      "sha256": "4ff3a766771dfa86c5f07b6fa952fd4bf7e131cbf4c45a4060816f40797e2b92",
+      "retrieved_utc": "2026-09-12T12:07:52+00:00"
     }
   ],
   "Jack Draper": [
