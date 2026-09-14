@@ -15311,6 +15311,42 @@
       "path": "images/kylian_mbappe/Kylian_Mbappe_France_v_Sweden_6.30.26-225.jpg",
       "sha256": "22f78541e1d08facf5d7b5e97de64642a0e9a001f9dc3085935c1bcde1331f43",
       "retrieved_utc": "2026-09-14T04:35:03+00:00"
+    },
+    {
+      "commons_title": "File:Kylian Mbappe Andres Cubas France v Paraguay 4 July 2026-123.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKylian_Mbappe_Andres_Cubas_France_v_Paraguay_4_July_2026-123.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kylian_Mbappe_Andres_Cubas_France_v_Paraguay_4_July_2026-123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "92c6109cff67168e165c50b1dc7bc3adbae42823",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/Kylian_Mbappe_Andres_Cubas_France_v_Paraguay_4_July_2026-123.jpg",
+      "sha256": "f62bf967aa29df575cf19bebdc380bf6fa2572b7989f52e742567382837e565a",
+      "retrieved_utc": "2026-09-14T14:59:01+00:00"
+    },
+    {
+      "commons_title": "File:Kylian Mbappe France v Paraguay 4 July 2026-111.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKylian_Mbappe_France_v_Paraguay_4_July_2026-111.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kylian_Mbappe_France_v_Paraguay_4_July_2026-111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "ad7ed2cb0c707a4e2dd627a2e98219e3649d91f6",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/Kylian_Mbappe_France_v_Paraguay_4_July_2026-111.jpg",
+      "sha256": "a2d8f40c9aa0fbb1e4bdfe6db7294eaff1e1fa8d352897651ee97268fba9cb05",
+      "retrieved_utc": "2026-09-14T14:59:02+00:00"
     }
   ],
   "Jude Bellingham": [
@@ -22205,6 +22241,24 @@
       "path": "images/christian_pulisic/Youri_Tielemans_Christian_Pulisic_Belgium_v_USA_6_July_2026-092.jpg",
       "sha256": "a5bd9c83a8995a39eb0f1aea1caec3e876abe8f749b4db32d566b2ac98c725d8",
       "retrieved_utc": "2026-09-13T18:45:06+00:00"
+    },
+    {
+      "commons_title": "File:Christian Pulisic Belgium v USA 6 July 2026-118.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AChristian_Pulisic_Belgium_v_USA_6_July_2026-118.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Christian_Pulisic_Belgium_v_USA_6_July_2026-118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "8f5cde09df0d81f9b762a6d369499553cbee46ac",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Christian Pulisic",
+      "path": "images/christian_pulisic/Christian_Pulisic_Belgium_v_USA_6_July_2026-118.jpg",
+      "sha256": "9ee5aee3ee9666ac627d72c5d257dcd81fe3b9f19bde6e7fcd75a5bc9ecac736",
+      "retrieved_utc": "2026-09-14T14:59:19+00:00"
     }
   ],
   "Son Heung-min": [
