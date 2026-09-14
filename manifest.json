@@ -10855,6 +10855,24 @@
       "path": "images/taylor_fritz/Fritz-Vacherot_2.png",
       "sha256": "5bc1358356f99be71754a91adda9ee2bb20caed4aa209705f46b449a3272b5eb",
       "retrieved_utc": "2026-09-12T22:10:24+00:00"
+    },
+    {
+      "commons_title": "File:Taylor Fritz.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ATaylor_Fritz.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Taylor_Fritz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "3e8fad2e6cc329488069a1770b55fb1c4c6e5ed3",
+      "width": 2004,
+      "height": 1484,
+      "mime": "image/png",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "LHC88",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Taylor Fritz",
+      "path": "images/taylor_fritz/Taylor_Fritz.png",
+      "sha256": "2d08f808b0e8cd82883f382d34586b103ca46bb3f7dea930240214d11709224d",
+      "retrieved_utc": "2026-09-14T04:34:54+00:00"
     }
   ],
   "Jack Draper": [
@@ -15275,6 +15293,24 @@
       "path": "images/kylian_mbappe/Kylian_Mbappé_and_Luka_Modrić_receive_the_award_for_the_best_young_player_and_best_player_in_the_2018_World_Cup_respectively_cropped_.jpg",
       "sha256": "60dd3dddd73fc4acee9d6c6697b3417ec7de7550ef63955e892196cc2ebef619",
       "retrieved_utc": "2026-09-13T18:44:42+00:00"
+    },
+    {
+      "commons_title": "File:Kylian Mbappe France v Sweden 6.30.26-225.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKylian_Mbappe_France_v_Sweden_6.30.26-225.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kylian_Mbappe_France_v_Sweden_6.30.26-225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "b53b68932115a0ad7ff131e00be4b43ddfcf6166",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/Kylian_Mbappe_France_v_Sweden_6.30.26-225.jpg",
+      "sha256": "22f78541e1d08facf5d7b5e97de64642a0e9a001f9dc3085935c1bcde1331f43",
+      "retrieved_utc": "2026-09-14T04:35:03+00:00"
     }
   ],
   "Jude Bellingham": [
