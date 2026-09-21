@@ -6687,6 +6687,42 @@
       "path": "images/novak_djokovic/Novak_Djokovic_8585161251_.jpg",
       "sha256": "99a4e79c8dd3ccb885774a113168ead74d10a691a4bab21db987ec157f30c564",
       "retrieved_utc": "2026-09-21T04:35:39+00:00"
+    },
+    {
+      "commons_title": "File:2011 Australian Open IMG 0113 2 (5444733512).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3A2011_Australian_Open_IMG_0113_2_%285444733512%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2011_Australian_Open_IMG_0113_2_%285444733512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "39aba59f9317467d8435d44441134327dc6616be",
+      "width": 2645,
+      "height": 1872,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Christopher Johnson from Tokyo, Japan",
+      "credit": "IMG_0113_2",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/2011_Australian_Open_IMG_0113_2_5444733512_.jpg",
+      "sha256": "885ccf258e9426cf5b97c8d41b031b38d14f2bfca8a5b29574c86704bbbb5756",
+      "retrieved_utc": "2026-09-21T20:24:12+00:00"
+    },
+    {
+      "commons_title": "File:Flickr - Tim Schofield - IMG 2924 trim.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AFlickr_-_Tim_Schofield_-_IMG_2924_trim.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flickr_-_Tim_Schofield_-_IMG_2924_trim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "5ec83bbbdef418599e996010bc7c8dbbc23798f5",
+      "width": 1472,
+      "height": 1528,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Tim Schofield",
+      "credit": "IMG_2924",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Flickr_-_Tim_Schofield_-_IMG_2924_trim.jpg",
+      "sha256": "bfb1f773799d9e5e3adc29c69a1d266b21c8f4610dad83f5bf634fb1433de406",
+      "retrieved_utc": "2026-09-21T20:24:13+00:00"
     }
   ],
   "Aryna Sabalenka": [
