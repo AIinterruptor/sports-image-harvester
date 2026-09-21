@@ -6669,6 +6669,24 @@
       "path": "images/novak_djokovic/Australian_Open_Final_2011_-_Murray_and_Djokovic.jpg",
       "sha256": "a749f7e025e04b38a32e0b24df95097bbe5d0850e3a5767fb5e44c07b0f6de79",
       "retrieved_utc": "2026-09-20T18:41:17+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic (8585161251).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_%288585161251%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Novak_Djokovic_%288585161251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "c4ffc0dc97217a835d3037d71d24ca8c98039a88",
+      "width": 1915,
+      "height": 1417,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Carine06 from UK",
+      "credit": "Novak Djokovic\n\nUploaded by Flickrworker",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_8585161251_.jpg",
+      "sha256": "99a4e79c8dd3ccb885774a113168ead74d10a691a4bab21db987ec157f30c564",
+      "retrieved_utc": "2026-09-21T04:35:39+00:00"
     }
   ],
   "Aryna Sabalenka": [
@@ -15725,6 +15743,24 @@
       "path": "images/kylian_mbappe/Kylian_Mbappe_France_v_Morocco_9_July_2026-148.jpg",
       "sha256": "fc94ac167bb93ca81b80a0ce8e713b5f565749e99dfa304fdf45a5c5e101f738",
       "retrieved_utc": "2026-09-16T22:51:47+00:00"
+    },
+    {
+      "commons_title": "File:Kylian Mbappe France v Sweden 6.30.26-222.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKylian_Mbappe_France_v_Sweden_6.30.26-222.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kylian_Mbappe_France_v_Sweden_6.30.26-222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "45930e60c6eb86a9e7f87c8b285564876a96074c",
+      "width": 3333,
+      "height": 5000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/Kylian_Mbappe_France_v_Sweden_6.30.26-222.jpg",
+      "sha256": "bd38e24496b0756bec0d96e8a72618b980e588eb9c36584327dc046dc67282b1",
+      "retrieved_utc": "2026-09-21T04:35:57+00:00"
     }
   ],
   "Jude Bellingham": [
