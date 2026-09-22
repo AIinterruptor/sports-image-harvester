@@ -6723,6 +6723,42 @@
       "path": "images/novak_djokovic/Flickr_-_Tim_Schofield_-_IMG_2924_trim.jpg",
       "sha256": "bfb1f773799d9e5e3adc29c69a1d266b21c8f4610dad83f5bf634fb1433de406",
       "retrieved_utc": "2026-09-21T20:24:13+00:00"
+    },
+    {
+      "commons_title": "File:2014 US Open Tennis (15083264912).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3A2014_US_Open_Tennis_%2815083264912%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/2014_US_Open_Tennis_%2815083264912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "9a32afe076282e6aab4ff4893d862be5f473714e",
+      "width": 1081,
+      "height": 1621,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Michael Vadon",
+      "credit": "2014 US Open Tennis",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/2014_US_Open_Tennis_15083264912_.jpg",
+      "sha256": "c3e30f0eaa4f786922ee652324401b19cb3f4c65cf815c66d78319c7a3cd6cc3",
+      "retrieved_utc": "2026-09-22T19:44:30+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic - Roland-Garros - 28.05.2024.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_-_Roland-Garros_-_28.05.2024.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Novak_Djokovic_-_Roland-Garros_-_28.05.2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "3cbe7c93e91c5bb8b422f4d3e55b7b69ad1d55d7",
+      "width": 3942,
+      "height": 2957,
+      "mime": "image/jpeg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Kuberzog",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_-_Roland-Garros_-_28.05.2024.jpg",
+      "sha256": "cbf32c91516e260b775478e49a4e33d1a026d6b3cd9114fd67b9b6d4e26a20f0",
+      "retrieved_utc": "2026-09-22T19:44:32+00:00"
     }
   ],
   "Aryna Sabalenka": [
