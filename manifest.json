@@ -3227,6 +3227,42 @@
       "path": "images/carlos_alcaraz/Wimbledon_Day_1_-_2022_DSC05851_52179720164_.jpg",
       "sha256": "da2e4ad63d8bbe0aed534136f7bc6bd2836969777ca61f6e22ac10b8745a49f8",
       "retrieved_utc": "2026-08-23T08:40:02+00:00"
+    },
+    {
+      "commons_title": "File:Carlos Alcaraz (2026 US Open) - 01.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarlos_Alcaraz_%282026_US_Open%29_-_01.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Carlos_Alcaraz_%282026_US_Open%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "fd5be312bc85c62ade8a78f16dcd0717111cc1f5",
+      "width": 1471,
+      "height": 1962,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Oleg Yunakov",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Carlos Alcaraz",
+      "path": "images/carlos_alcaraz/Carlos_Alcaraz_2026_US_Open_-_01.jpg",
+      "sha256": "ab1f143fea10cdc266da6a865e7e15c674d6e02c57937fd97ee02d7ecf424394",
+      "retrieved_utc": "2026-09-27T04:59:52+00:00"
+    },
+    {
+      "commons_title": "File:Carlos Alcaraz (2026 US Open) - 05.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarlos_Alcaraz_%282026_US_Open%29_-_05.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Carlos_Alcaraz_%282026_US_Open%29_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "fafe8ac6b63db16c5002514ad0338a3a10529c84",
+      "width": 2297,
+      "height": 3063,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Oleg Yunakov",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Carlos Alcaraz",
+      "path": "images/carlos_alcaraz/Carlos_Alcaraz_2026_US_Open_-_05.jpg",
+      "sha256": "d80e326fb355783fd5d3d02a341bab676ffa9414ddf46fac6385a63fcf66c450",
+      "retrieved_utc": "2026-09-27T04:59:53+00:00"
     }
   ],
   "Jannik Sinner": [
