@@ -3299,6 +3299,24 @@
       "path": "images/carlos_alcaraz/Wimbledon_Day_1_-_2022_DSC05763_52179492741_.jpg",
       "sha256": "79ceca2037e22f79e47db5bb37e33dff0cf90a5cda5aecc1eb5795385d1f85a1",
       "retrieved_utc": "2026-09-27T13:49:46+00:00"
+    },
+    {
+      "commons_title": "File:Carlos Alcaraz (2026 US Open) - 10.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarlos_Alcaraz_%282026_US_Open%29_-_10.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Carlos_Alcaraz_%282026_US_Open%29_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "5863d41f6bb8e3dc734797c49538ddf763750504",
+      "width": 1910,
+      "height": 2547,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Oleg Yunakov",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Carlos Alcaraz",
+      "path": "images/carlos_alcaraz/Carlos_Alcaraz_2026_US_Open_-_10.jpg",
+      "sha256": "d2326bbc020fea06ca06c62afaa65ddc8e14018cbbaac06cfc6cebbeafbf0cdd",
+      "retrieved_utc": "2026-09-27T19:44:16+00:00"
     }
   ],
   "Jannik Sinner": [
