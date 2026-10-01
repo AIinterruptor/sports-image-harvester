@@ -7083,6 +7083,42 @@
       "path": "images/novak_djokovic/2011_Australian_Open_IMG_0118_2_5444733770_.jpg",
       "sha256": "bdb10cf2d1a1c46063a150e1f8477fbf94b7c916312467e56734b68e01884da9",
       "retrieved_utc": "2026-09-30T20:46:08+00:00"
+    },
+    {
+      "commons_title": "File:Despedida Nico Massu en La Moneda.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ADespedida_Nico_Massu_en_La_Moneda.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Despedida_Nico_Massu_en_La_Moneda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "e0e1c740a863cdc8127986f8acb92339dfbe5c96",
+      "width": 1500,
+      "height": 996,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Ministerio Secretaria General de Gobierno",
+      "credit": "Flickr: Despedida Nico Massu en La Moneda",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Despedida_Nico_Massu_en_La_Moneda.jpg",
+      "sha256": "9dae381d6560a6078ce836e9db3a359a791bc0636280efb7fd9c67a7daf2dcbc",
+      "retrieved_utc": "2026-10-01T05:30:23+00:00"
+    },
+    {
+      "commons_title": "File:Flickr - Tim Schofield - IMG 2924.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AFlickr_-_Tim_Schofield_-_IMG_2924.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Flickr_-_Tim_Schofield_-_IMG_2924.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "ef379af15946022435302c4f4cc3b0b950ac240f",
+      "width": 3264,
+      "height": 2448,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Tim Schofield",
+      "credit": "IMG_2924",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Flickr_-_Tim_Schofield_-_IMG_2924.jpg",
+      "sha256": "e13c8e53bcd6cb3220100a91b6b434321c259c03403b649656a8cb3228970239",
+      "retrieved_utc": "2026-10-01T05:30:24+00:00"
     }
   ],
   "Aryna Sabalenka": [
