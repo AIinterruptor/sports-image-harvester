@@ -7119,6 +7119,42 @@
       "path": "images/novak_djokovic/Flickr_-_Tim_Schofield_-_IMG_2924.jpg",
       "sha256": "e13c8e53bcd6cb3220100a91b6b434321c259c03403b649656a8cb3228970239",
       "retrieved_utc": "2026-10-01T05:30:24+00:00"
+    },
+    {
+      "commons_title": "File:2024 Summer Olympics men's singles tennis tournament's podium, 2024-08-04 (140).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3A2024_Summer_Olympics_men%27s_singles_tennis_tournament%27s_podium%2C_2024-08-04_%28140%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/2024_Summer_Olympics_men%27s_singles_tennis_tournament%27s_podium%2C_2024-08-04_%28140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "d9fab339c89212cd4bb821d28954c3d22fd63280",
+      "width": 4000,
+      "height": 3000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Like tears in rain",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/2024_Summer_Olympics_men_s_singles_tennis_tournament_s_podium_2024-08-04_140_.jpg",
+      "sha256": "b959f8d85d72c9bd56708c25841ae795694756d42b11a5519b5e9db98419d24a",
+      "retrieved_utc": "2026-10-02T05:17:01+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic (Ser) (39690813512) (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_%28Ser%29_%2839690813512%29_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Novak_Djokovic_%28Ser%29_%2839690813512%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "2a04b63745158fca240020ed4f6d53b57716d039",
+      "width": 2238,
+      "height": 1523,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Joshua Sadli from Melbourne, Australia",
+      "credit": "Novak Djokovic (Ser)",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_Ser_39690813512_cropped_.jpg",
+      "sha256": "0c715bcac02b8a1dc465a3dcabfa2aba81e4f37c395b23c2de61ffbd4b105f48",
+      "retrieved_utc": "2026-10-02T05:17:02+00:00"
     }
   ],
   "Aryna Sabalenka": [
@@ -12983,6 +13019,24 @@
       "path": "images/emma_raducanu/Transylvania_Open-Day_2-Emma_Răducanu_Gabriela_Ruse_-_practice_51627188010_.jpg",
       "sha256": "05bf4444b6be2cf12a8ef9703ff2846ef17b16e29e6544603a94cbc8088cdb55",
       "retrieved_utc": "2026-09-14T20:17:28+00:00"
+    },
+    {
+      "commons_title": "File:Katie Boulter and Emma Raducanu at the 2025 Queen's Club Championships (16).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AKatie_Boulter_and_Emma_Raducanu_at_the_2025_Queen%27s_Club_Championships_%2816%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Katie_Boulter_and_Emma_Raducanu_at_the_2025_Queen%27s_Club_Championships_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "2d787f1e5ddf3e6bb46913f437d3ed616dcc8cc8",
+      "width": 2048,
+      "height": 1536,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Daniel Cooper",
+      "credit": "https://www.flickr.com/photos/196887122@N06/54578914378/",
+      "attribution_required": true,
+      "athlete": "Emma Raducanu",
+      "path": "images/emma_raducanu/Katie_Boulter_and_Emma_Raducanu_at_the_2025_Queen_s_Club_Championships_16_.jpg",
+      "sha256": "d5517287baae5fd1c4946720479c04dc289b26fbb013c13a62c96067d0fe6dc1",
+      "retrieved_utc": "2026-10-02T05:17:13+00:00"
     }
   ],
   "Lionel Messi": [
