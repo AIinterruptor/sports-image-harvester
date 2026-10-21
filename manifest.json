@@ -20863,6 +20863,42 @@
       "path": "images/harry_kane/Harry_Kane_9_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01_cropped_.jpg",
       "sha256": "fb2323227179fd39064e412614184c62ea1c270e2d2e80b2f052128ce8bcf78e",
       "retrieved_utc": "2026-10-05T05:15:54+00:00"
+    },
+    {
+      "commons_title": "File:England vs Panama 2018 2.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AEngland_vs_Panama_2018_2.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/England_vs_Panama_2018_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "1a0db3a4470d78d87a8b69b99499b45d826b8352",
+      "width": 1500,
+      "height": 1000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Антон Зайцев",
+      "credit": "https://www.soccer.ru/galery/1055080/photo/732869",
+      "attribution_required": true,
+      "athlete": "Harry Kane",
+      "path": "images/harry_kane/England_vs_Panama_2018_2.jpg",
+      "sha256": "adde3906d9fc8f0780db10d50ad9e3c4db0c247dc104406a6890c5cd34bc513d",
+      "retrieved_utc": "2026-10-21T20:04:53+00:00"
+    },
+    {
+      "commons_title": "File:Southgate bread and salt.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ASouthgate_bread_and_salt.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Southgate_bread_and_salt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "4d8dcb2713ef73f58e1b00443ee4d381a5cb14b8",
+      "width": 1500,
+      "height": 1000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Кирилл Венедиктов",
+      "credit": "https://www.soccer.ru/galery/1053441/photo/729759",
+      "attribution_required": true,
+      "athlete": "Harry Kane",
+      "path": "images/harry_kane/Southgate_bread_and_salt.jpg",
+      "sha256": "af7349be1c0108eb01df3465f522901231ec7b273baf0d0518d52f5845fc3a0d",
+      "retrieved_utc": "2026-10-21T20:04:55+00:00"
     }
   ],
   "Jamal Musiala": [
