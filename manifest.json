@@ -215,6 +215,24 @@
       "path": "images/alexandra_eala/Alex_Eala_Signature_2026.png",
       "sha256": "684d84dcb1de496d7c5709e4b0c6167b8c447374fb80927aa7bdecabe850504d",
       "retrieved_utc": "2026-09-15T19:40:24+00:00"
+    },
+    {
+      "commons_title": "File:Bongbong Marcos Alex Eala Malacanang Palace 2026 (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ABongbong_Marcos_Alex_Eala_Malacanang_Palace_2026_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bongbong_Marcos_Alex_Eala_Malacanang_Palace_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "6b7f589033c7997f15e80485913197bd5793fb78",
+      "width": 771,
+      "height": 677,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Presidential Communications Office",
+      "credit": "Presidential Communications Office website – https://pco.gov.ph/photos/?post_id=248821",
+      "attribution_required": false,
+      "athlete": "Alexandra Eala",
+      "path": "images/alexandra_eala/Bongbong_Marcos_Alex_Eala_Malacanang_Palace_2026_cropped_.jpg",
+      "sha256": "353f7a72eacb68bdc31f48358d33bb23094e5f3096240c4924ca7bed82822c40",
+      "retrieved_utc": "2026-10-29T21:01:42+00:00"
     }
   ],
   "Lamine Yamal": [
@@ -21079,6 +21097,24 @@
       "path": "images/harry_kane/Southgate_bread_and_salt.jpg",
       "sha256": "af7349be1c0108eb01df3465f522901231ec7b273baf0d0518d52f5845fc3a0d",
       "retrieved_utc": "2026-10-21T20:04:55+00:00"
+    },
+    {
+      "commons_title": "File:Harry Kane England v Panama 27 June 26-184.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AHarry_Kane_England_v_Panama_27_June_26-184.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Harry_Kane_England_v_Panama_27_June_26-184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "e2f35c98814970d69eab3f596c879e6579d0f50a",
+      "width": 3333,
+      "height": 5000,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Harry Kane",
+      "path": "images/harry_kane/Harry_Kane_England_v_Panama_27_June_26-184.jpg",
+      "sha256": "15ac9cc082611006df844ae4547de890f81f3abff4f8aec8059c282e2237b0d4",
+      "retrieved_utc": "2026-10-29T21:02:25+00:00"
     }
   ],
   "Jamal Musiala": [
