@@ -7803,6 +7803,42 @@
       "path": "images/novak_djokovic/Novak_Djokovic_vs._Carlos_Alcaraz_2024_Summer_Olympics_men_s_singles_tennis_tournament_2024-08-04_134_.jpg",
       "sha256": "bd81a220b2b68e81741d698c2479de5f55fbdcb31d1d05870c5c18def94a863d",
       "retrieved_utc": "2026-11-06T15:53:32+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic (25797259405).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_%2825797259405%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Novak_Djokovic_%2825797259405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "e852ae439cf0590807d97c11bf8be31b0f5eb1eb",
+      "width": 1957,
+      "height": 1724,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Christian Mesiano",
+      "credit": "Novak Djokovic",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_25797259405_.jpg",
+      "sha256": "8a063a33049860f612fc03cabef6d4b59c49373c7db3a9fc1a63d69d7878669e",
+      "retrieved_utc": "2026-11-08T15:00:01+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic Practicing Tennis 08.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_Practicing_Tennis_08.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Novak_Djokovic_Practicing_Tennis_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "a3dc71ec64fcb357bee81d6df88ca84a41cc5730",
+      "width": 4000,
+      "height": 6000,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Amaury Laporte",
+      "credit": "https://www.flickr.com/photos/8283439@N04/53156374270/",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_Practicing_Tennis_08.jpg",
+      "sha256": "d8e597e0cd8866cf575e3fead25d3a05b110f8a5e83a30b5403dc6256b054a97",
+      "retrieved_utc": "2026-11-08T15:00:03+00:00"
     }
   ],
   "Aryna Sabalenka": [
