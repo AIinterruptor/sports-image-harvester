@@ -7857,6 +7857,42 @@
       "path": "images/novak_djokovic/Flickr_-_Carine06_-_Djokovic_overhead.jpg",
       "sha256": "227fc38ead9f699755e5f98f75379c31fb0b07715c88b1f771a3e1d135f5ab18",
       "retrieved_utc": "2026-11-10T02:42:05+00:00"
+    },
+    {
+      "commons_title": "File:Djokovic.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ADjokovic.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Djokovic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "110be9dda04c797c6b6402a68cfb7ecc5e9d3110",
+      "width": 754,
+      "height": 848,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "I am the photographer of this image.",
+      "credit": "Own work (Original text: self-made)",
+      "attribution_required": false,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Djokovic.jpg",
+      "sha256": "9658059b0f5d3d43b3ea27f7860a77923eb7785433580ca1fc1709684db3764e",
+      "retrieved_utc": "2026-11-10T21:49:12+00:00"
+    },
+    {
+      "commons_title": "File:US Open 2009 4th round 457.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AUS_Open_2009_4th_round_457.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/US_Open_2009_4th_round_457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "e099098b7e25f5117df0d1a140157d415108f2bd",
+      "width": 2048,
+      "height": 1360,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Edwin  Martinez",
+      "credit": "originally posted to Flickr as US Open 2009 4th round 457",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/US_Open_2009_4th_round_457.jpg",
+      "sha256": "2df559e86f5e839a9ec720649284aeb5ce9bfb7732fd6d55cd3e1a7fa4d0d315",
+      "retrieved_utc": "2026-11-10T21:49:14+00:00"
     }
   ],
   "Aryna Sabalenka": [
