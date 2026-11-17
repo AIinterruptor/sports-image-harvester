@@ -7947,6 +7947,24 @@
       "path": "images/novak_djokovic/Paris-FR-75-open_de_tennis-2019-Roland_Garros-court_Chatrier-6_juin-Djokovic-16.jpg",
       "sha256": "48ffd59f5d93853298476d3888d8ae94d552220cf88fd026d7bf5fe54e53f729",
       "retrieved_utc": "2026-11-14T20:36:12+00:00"
+    },
+    {
+      "commons_title": "File:Novak Djokovic (35616983685).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ANovak_Djokovic_%2835616983685%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Novak_Djokovic_%2835616983685%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "700df455afa4f90c97081d82f5a246b33f37d903",
+      "width": 3648,
+      "height": 5472,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Andrew Campbell",
+      "credit": "Novak Djokovic",
+      "attribution_required": true,
+      "athlete": "Novak Djokovic",
+      "path": "images/novak_djokovic/Novak_Djokovic_35616983685_.jpg",
+      "sha256": "98ae1df5186983745cf36dbb7a373e2b3223c9d9449ea0fc417212c015ea91ab",
+      "retrieved_utc": "2026-11-17T13:03:27+00:00"
     }
   ],
   "Aryna Sabalenka": [
