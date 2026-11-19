@@ -991,6 +991,24 @@
       "path": "images/lamine_yamal/Lamine_Yamal_Argentina_v_Spain_19_July_2026-214_new_cropped_.jpg",
       "sha256": "07a37f2e4be86f36adac28c9c739b32bd774ba45cf1dfe96a3307acc1a8f25e8",
       "retrieved_utc": "2026-10-15T19:51:21+00:00"
+    },
+    {
+      "commons_title": "File:Lamine Yamal Argentina v Spain 19 July 2026-144 (cropped).jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3ALamine_Yamal_Argentina_v_Spain_19_July_2026-144_%28cropped%29.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lamine_Yamal_Argentina_v_Spain_19_July_2026-144_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "f785313963af588e05de4c8f2df57e075ccd28dc",
+      "width": 2462,
+      "height": 3309,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Lamine Yamal",
+      "path": "images/lamine_yamal/Lamine_Yamal_Argentina_v_Spain_19_July_2026-144_cropped_.jpg",
+      "sha256": "708c12c32eef305cb3cfe34f84361a4de06b0e8c03baadb742aca2c195e642d1",
+      "retrieved_utc": "2026-11-19T23:03:46+00:00"
     }
   ],
   "Iga Swiatek": [
@@ -17363,6 +17381,24 @@
       "path": "images/kylian_mbappe/Kylian_Mbappe_-_France_v_Norway_-_26_June_2026_cropped_.jpg",
       "sha256": "cb6e4a0009665df7aa0c125b8801818484fea47c1144cb8b94dc547e615c86a2",
       "retrieved_utc": "2026-10-26T04:23:45+00:00"
+    },
+    {
+      "commons_title": "File:France v Morocco 9 July 2026-068.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File%3AFrance_v_Morocco_9_July_2026-068.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/France_v_Morocco_9_July_2026-068.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sha1": "9ee6f12fd681c6c3e258d9d6540638ddcf6160f9",
+      "width": 5000,
+      "height": 3333,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bryan Berlin",
+      "credit": "Own work",
+      "attribution_required": true,
+      "athlete": "Kylian Mbappe",
+      "path": "images/kylian_mbappe/France_v_Morocco_9_July_2026-068.jpg",
+      "sha256": "f2a792aaeaa57cd2e7cb85237b1346433e7b9197a33104b25a8523f130d2a85c",
+      "retrieved_utc": "2026-11-19T23:03:43+00:00"
     }
   ],
   "Jude Bellingham": [
